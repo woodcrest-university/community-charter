@@ -48,14 +48,10 @@ Instead of:
 ```
 
 
-​### Paragraphing and Turn Order
-
+### Paragraphing and Turn Order
 - RULE ZERO: Share the limelight with all participants.  Allow everyone a chance to contribute to the direction of the scene.  Only an event storyteller, or an instructor in the confines of her/his class may impose expectations on all participants beyond the sim’s setting and rules.
-
 - RULE OF THUMB:  (a) Describe your action in 1 or more sentences, and (b) take only 1 major action in a post.  Do not take another major action until everyone involved has acted. Be patient for slower typers.  This is more important when stakes are higher, such as in contests or combat.
-
 - BE FLEXIBLE.  People go Away From their Keyboard (AFK) without notice (although they shouldn’t), or are just shy and go quiet.  This would stop the action if you had to wait for everyone. Shorter, 1-sentence posts often work better in crowds.  Still try to practice reasonable turn order: give time for others to act, and be mindful to reach out to those who are more shy.  But it may be appropriate to take actions out of strict order to keep things moving.
-
 - ADAPT TO OTHER STYLES.  If everyone around is typing in paragraphs and waiting patiently for other paragraphs, you might seem rude excessively posting short snippets out-of-turn.  If everyone is typing short posts without strict turn order, then you may wish to break up your long paragraphs. Or just suck it in and constantly re-edit your paragraph while you type, as short posts zing around you.
 
 - CLASS SESSIONS SHOULD DEFER TO THE INSTRUCTOR.  Some like open discussion. Others want you to raise your hand and wait to be acknowledged.  Respect their expectations. Do not disrupt a class without collaboration or prior OOC permission from the instructor.
