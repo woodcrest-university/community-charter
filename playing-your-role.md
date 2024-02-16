@@ -1,4 +1,4 @@
-​# Playing Your Role: Tips on Creating Fun in RP
+# Playing Your Role: Tips on Creating Fun in RP
 
 We acknowledge that not every scene is equally exciting.  And we understand that Real Life can harass you while playing.  But do come, aiming to be PRESENT and ENGAGED with others! Here are some thoughts on how you can contribute and take ownership in improving RP life at Woodcrest.
 
