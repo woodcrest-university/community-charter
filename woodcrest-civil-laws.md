@@ -1,25 +1,28 @@
 # Woodcrest Civil Laws & Regulations
  
-- Street speed limits are 40 mph, 25 mph in residential neighborhoods, and 15 mph around the university.
-- This applies to all vehicles, whether cars, bicycles or mounted animals.
-- A​t crosswalks and driveways, wild turkeys have the right of way.
-- Elephants may not be used to plow your fields.
-- You may not howl at the full moon from 5 minutes before to 15 minutes after midnight.
-- Firearms are forbidden on campus except by authorized authorities.
+To comply with Woodcrest's commitment to safety and order, the following civil laws and regulations are in effect:
+
+- The maximum speed limit on main streets is set at 40 mph. In residential areas, the speed limit is reduced to 25 mph to ensure the safety of our community members. Around the university premises, the speed limit is further lowered to 15 mph, reflecting the high pedestrian traffic and active environment.
+- These speed limits apply universally to all forms of transportation, including cars, bicycles, and animals used for riding. This comprehensive approach ensures consistency and safety for all moving within Woodcrest.
+- The possession and use of firearms on university grounds are strictly prohibited, except for individuals who have been explicitly authorized to do so. This measure is in place to maintain a secure and safe campus environment for all students, faculty, and visitors.
+
+Adherence to these regulations is essential for the well-being and security of the Woodcrest community.
 
 
 ## North Carolina State Law
 ​
-- Singing off-key is against the law.
-- Bingo games may not last more than five hours unless held at a fair.
-- Marijuana possession is illegal except when authorized for medical use.
-- Willful exposure of one's genitals in any public place is an act of indecent exposure. Exceptions are made for mothers who breastfeed infants, or for authorized adult-oriented businesses.
-- Licenses must be obtained at the DMV for motor vehicle operation, firearm possession, and medical marijuana use.
+Under North Carolina State Law, several important regulations are established to ensure the safety and legality of actions within the state:
+
+- Marijuana possession remains illegal except for cases where it has been authorized for medical purposes. Individuals must follow strict guidelines and obtain the necessary permissions for medical use to avoid legal repercussions.
+- Indecent exposure, defined as the willful exposure of one's genitals in any public place, is considered a criminal act. Exceptions to this law include mothers who are breastfeeding their infants and activities within the scope of authorized adult-oriented businesses, where such exposure is regulated under specific conditions.
+- For the operation of motor vehicles, possession of firearms, and use of medical marijuana, individuals are required to obtain the appropriate licenses from the Department of Motor Vehicles (DMV). These licenses serve as official documentation of an individual's eligibility and legal right to engage in these activities, ensuring compliance with state regulations.
+
+Adherence to these laws is critical for maintaining the legal and social fabric of North Carolina, protecting the rights and safety of its residents.
 
 
 ## United States Federal Law​
 
-- The legal drinking age is 21.
+Under United States Federal Law, the legal age for alcohol consumption is set at 21 years old. This law is enforced nationwide, requiring individuals to be at least 21 years of age to purchase or publicly consume alcoholic beverages. This regulation aims to reduce alcohol-related accidents and health issues among younger populations, promoting responsible drinking practices across the country. Compliance with this law is mandatory, and failure to adhere can result in legal consequences for both individuals and establishments serving alcohol.
 
 
-###### _Woodcrest Civil Laws, rev. 2024-02-17_
+###### _Woodcrest Civil Laws, rev. 2024-02-17_2_
