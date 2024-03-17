@@ -1,23 +1,27 @@
-# Code of Conduct
+# Woodcrest Code of Conduct
 
-1. **Embrace Diversity**: Woodcrest is a melting pot of roleplay experiences, languages, and styles. Whether you're a seasoned RPer or new to the scene, lead by example, offering guidance without elitism.
+Welcome to Woodcrest, a community where diversity, creativity, and respect form the bedrock of our shared experience. As members of this vibrant world, it is crucial that we adhere to a code of conduct and sim rules that uphold the integrity and enjoyment of all participants. Here is our comprehensive guide to ensuring a positive, inclusive, and enriching environment for everyone:
 
-1. **Foster Openness**: Engaging in local chat helps include everyone. While private messages (IMs) have their place, especially for welcoming those less inclined to speak up, always respect privacy and consent to avoid harassment.
+1. **Embrace and Respect Diversity**: Woodcrest is a diverse mosaic of roleplay experiences and backgrounds. We champion inclusivity and encourage all members to lead by example, fostering an environment where guidance is given with respect, not elitism.
 
-1. **Honor Boundaries**: Consent is key in roleplay. Avoid forcing unwelcome scenarios on others. Public events require participation by presence, but remember to seek approval for any significant environmental impact. Keep sensitive roleplay private and use discretion in public spaces to ensure comfort for all.
+1. **Communication is Key**: Open and respectful communication, primarily through local chat, is encouraged to maintain inclusivity. While private messages have their place, consent and privacy must always be respected to prevent harassment.
 
-1. **Minimize Drama**: Approach conflicts constructively and respect the community by avoiding slander and toxicity. Strive for peaceful resolutions and maintain a positive environment.
+1. **Consent and Boundaries**: Consent is the cornerstone of interaction here. Avoid imposing scenarios on others without their agreement. Public roleplay should not infringe on community comfort, and sensitive content must be approached with discretion. We strictly prohibit excessive violence and discriminatory language, both in public and private settings.
 
-1. **Enhance, Don’t Replace**: Use shouts, dances, and gestures to complement, not overshadow, roleplay. Excessive or disruptive gestures, along with out-of-character shouts, are not permitted. Griefing, trolling, and unsolicited promotions are grounds for disciplinary action.
+1. **Drama and Disruptions**: Constructive conflict resolution is essential. Slander, toxicity, and behaviors that disturb the peace are not tolerated. Scheduled events should not be interrupted without prior consent, emphasizing respect for the planning and effort involved.
 
-1. **Respect Events**: Do not interrupt scheduled events without prior agreement with the organizers. Understand the effort behind event planning and maintain a collaborative spirit.
+1. **Roleplay Etiquette**: Enhancements like shouts and gestures should support, not overshadow, roleplay. We discourage any form of griefing, trolling, and spamming, as these actions detract from our collective experience.
 
-1. **Respect Privacy**: Private spaces are off-limits without explicit permission. Circumventing locks or invading personal areas without consent is prohibited.
+1. **Privacy and Personal Space**: The sanctity of private spaces is to be maintained at all times. Unauthorized entry or the circumvention of security measures is forbidden.
 
-1. **Identify Yourself**: Wear the appropriate Woodcrest group tag. Use AFK zones or tags for extended absences, and remove out-of-character tags upon returning to roleplay.
+1. **Community Identity**: Wear your Woodcrest group tag proudly. If you need to step away, please use designated AFK zones or tags to inform others.
 
-1. **Keep a Light Heart**: Roleplay thrives on creativity and unexpected developments. Embrace the collective storytelling spirit without focusing solely on personal gains.
+1. **Maintain a Positive Spirit**: Keeping a light-hearted approach to roleplay enriches our shared stories. It's about "us," not just "me."
 
-1. **Supportive Staff**: Treat staff with kindness and patience as they juggle multiple tasks and real-life responsibilities. They are eager to assist and engage in roleplay when possible, but may occasionally be delayed in response.
+1. **Respect & Support Our Staff**: Our staff are here to assist and enhance your experience. While they strive to be attentive, please extend patience and understanding as they balance multiple responsibilities.
 
-###### _Woodcrest Code of Conduct, v1.1_
+1. **Adherence to Standards**: All members must be 18 years or older and maintain avatars that reflect our real-world setting. We operate within the guidelines of Linden Labs' TOS and Community Standards, with any violations subject to appropriate actions.
+
+By participating in Woodcrest, you agree to these principles, which are designed not only to safeguard individual rights but also to foster a community where creativity, engagement, and mutual respect can flourish. Together, let's make Woodcrest a beacon of exemplary roleplay and community spirit.
+
+###### _Woodcrest Code of Conduct, rev 3/2024_
