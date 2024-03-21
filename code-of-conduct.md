@@ -112,7 +112,7 @@ Remember, this Code of Conduct serves as a guideline to ensure a positive and in
 
 By participating in Woodcrest, you agree to abide by these principles and contribute to creating a welcoming and engaging environment for all residents. Together, we can build a vibrant and thriving roleplay community that inspires creativity, fosters friendships, and creates unforgettable stories.
 
-**Note:** The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final.
+_**Note:** The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final._
 
 ### Additional Notes
 
@@ -124,6 +124,6 @@ The administration has the authority to permit, modify, or terminate any RP scen
 
 All residents are expected to comply with the instructions and decisions made by the Woodcrest administrators in the interest of maintaining a safe and enjoyable roleplay environment for all.
 
-**Indemnification:** Woodcrest Township, its owners, administrators, and staff (collectively referred to as "Woodcrest") shall not be held liable for any damages or losses resulting from the actions of its visitors, residents, or employees. Furthermore, Woodcrest is not responsible for any region performance issues or the loss of no-copy items due to factors beyond its control, such as rollbacks, sim crashes, or returned objects. In the event of lost inventory, affected residents should contact Linden Lab directly for assistance.
+_**Indemnification:** Woodcrest Township, its owners, administrators, and staff (collectively referred to as "Woodcrest") shall not be held liable for any damages or losses resulting from the actions of its visitors, residents, or employees. Furthermore, Woodcrest is not responsible for any region performance issues or the loss of no-copy items due to factors beyond its control, such as rollbacks, sim crashes, or returned objects. In the event of lost inventory, affected residents should contact Linden Lab directly for assistance._
 
-###### _Woodcrest Code of Conduct, rev. 3/2024
+###### _Woodcrest Code of Conduct, rev. 3/2024_
