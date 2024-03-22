@@ -2,7 +2,7 @@
 
 ### 1.0 Embrace Diversity
 
-Woodcrest is a vibrant tapestry of roleplay experiences, languages, and styles. We celebrate diversity and strive to create an inclusive environment where everyone feels welcome and respected, regardless of their background or experience level.
+Woodcrest is a diverse community of roleplay experiences, languages, and styles. We strive to create an inclusive environment where everyone feels welcome and respected, regardless of their background or experience level.
 
 Whether you're a seasoned RPer or new to the scene, lead by example, offering guidance and support without elitism or judgment. Foster a spirit of collaboration and shared learning.
 
