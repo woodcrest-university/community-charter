@@ -46,11 +46,16 @@ Event organizers have the final say in how to proceed with any unexpected interr
 
 ### Uphold Community Standards
 
-Woodcrest welcomes a diverse range of avatars, including humans, anthromorphic characters, and ferals. However, we expect all residents to adhere to community standards of decency and respect.
+Woodcrest is a community that focuses on realistic human avatars. We encourage residents to create and portray characters that align with this vision.
 
-Avatars should be appropriately attired and refrain from overtly sexual or explicit displays in public spaces. Clothing and accessories should be tasteful and non-offensive.
+Avatars should resemble realistic human proportions and appearances. Non-human avatars, such as anthromorphic characters or ferals, are not permitted within the Woodcrest community.
 
-When portraying characters of different ages, especially minors, ensure that your behavior, interactions, and storylines are age-appropriate and do not engage in or depict any form of abuse, exploitation, or sexual content involving underage characters.
+Attachments and accessories should be realistic and appropriate for the setting. Avoid using items that are overly exaggerated, fantastical, or disruptive to the immersive experience.
+
+Avatars must depict characters who are 18 years of age or older. The portrayal of underage characters is strictly prohibited.
+
+Residents are expected to ensure that their avatars are appropriately attired and refrain from overtly sexual or explicit displays in public spaces. Clothing and accessories should be tasteful and non-offensive.
+
 
 ### Practice Responsible Roleplay
 
@@ -59,6 +64,8 @@ In Woodcrest, we encourage creative freedom and dynamic storylines, but we also 
 When engaging in combat or conflict-related roleplay, use appropriate tools and systems to determine outcomes fairly. Avoid god-modding or power-gaming to maintain a balance and respect for all participants.
 
 If exploring mature themes or storylines, do so with sensitivity, consent, and appropriate content warnings. Be mindful of the potential impact on others and provide clear indicators or opt-in mechanisms for those who wish to engage.
+
+As all characters in Woodcrest are portrayed as adults, ensure that your roleplay interactions and themes are appropriate for an adult audience. The depiction of underage characters or storylines involving the exploitation of minors is strictly forbidden.
 
 ### Respect Privacy and Personal Boundaries
 
