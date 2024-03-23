@@ -110,15 +110,23 @@ If you encounter any issues with vehicles or property, contact the Woodcrest sta
 
 The Woodcrest staff team is here to support and assist you in your roleplay journey. They work tirelessly to maintain a safe, enjoyable, and immersive environment for all residents.
 
-If you encounter any issues, conflicts, or have questions or concerns, don't hesitate to reach out to the staff through the designated channels. They are committed to addressing your needs and finding appropriate solutions.
+However, we encourage all residents to first attempt to resolve conflicts or issues directly with the other person or party involved, if appropriate. Open communication, active listening, and a willingness to find mutually agreeable solutions can often lead to a positive outcome without the need for staff intervention.
 
-Treat staff members with respect and understanding, recognizing that they are juggling multiple responsibilities and may occasionally need time to respond or address complex situations.
+If you are unable to resolve the situation on your own, or if the issue involves a serious violation of community guidelines or rules, please don't hesitate to reach out to the staff through the designated channels. The staff is committed to addressing your concerns and finding appropriate solutions.
+
+When seeking staff assistance, please provide as much relevant information as possible, including:
+- A clear description of the issue or conflict
+- The names of the parties involved
+- Any relevant screenshots or evidence
+- The steps you have already taken to try to resolve the situation
+
+Treat staff members with respect and understanding, recognizing that they are juggling multiple responsibilities and may occasionally need time to respond or address complex situations. The staff will review each case thoroughly and impartially, and will work with all parties involved to find a fair and reasonable resolution.
 
 Remember, this Code of Conduct serves as a guideline to ensure a positive and inclusive roleplay experience for everyone in Woodcrest. It is a living document that may evolve and adapt over time to better serve the needs of the community.
 
 By participating in Woodcrest, you agree to abide by these principles and contribute to creating a welcoming and engaging environment for all residents. Together, we can build a vibrant and thriving roleplay community that inspires creativity, fosters friendships, and creates unforgettable stories.
 
-_**Note:** The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final._
+_**Note**: The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final._
 
 ### Additional Notes
 
