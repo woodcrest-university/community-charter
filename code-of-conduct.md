@@ -72,7 +72,6 @@ Woodcrest values the privacy and personal boundaries of all residents. Respect d
 
 Avoid sharing or disclosing personal information about other community members without their consent. Respect the privacy and anonymity of those who choose to keep their real-life identities separate from their online personas.
 
-If you capture screenshots or recordings within Woodcrest, obtain consent from all individuals involved before sharing or publishing them in any public forum.
 
 ### 9.0 Be Identifiable and Communicative
 
