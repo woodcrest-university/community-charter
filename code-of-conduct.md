@@ -18,7 +18,11 @@ If you encounter any issues or have concerns, reach out to the community staff o
 Consent is the foundation of all interactions within Woodcrest. Always obtain clear consent from other players before engaging in roleplay or imposing any scenarios or actions upon them.
 Public roleplay should be mindful of the comfort and boundaries of all community members. Avoid content or behaviors that may be excessively violent, discriminatory, or offensive. When in doubt, err on the side of caution and respect.
 
-For sensitive or mature roleplay themes, ensure that all participants have given explicit consent and conduct such interactions in private settings to maintain a comfortable environment for everyone.
+For sensitive or mature roleplay themes, ensure that all participants have given explicit consent and conduct such interactions in private settings to maintain a comfortable environment for everyone.  If you are unsure about the appropriateness of an action or need to clarify the boundaries of a roleplay situation, it is always safe and encouraged to use private instant messages (IMs) to communicate with the other player(s) involved. This allows for a clear and confidential exchange of consent and expectations without disrupting the flow of the in-character interaction.
+
+When using IMs to obtain consent, be clear and specific about the proposed action or scenario. Provide the other player(s) with enough context and information to make an informed decision. Respect their response and be prepared to adjust or abandon the proposed action if necessary.
+
+Remember, consent can be withdrawn at any time, even if previously given. If a player expresses discomfort or withdraws consent during a roleplay interaction, it is essential to respect their boundaries and adapt accordingly.
 
 ### 4.0 Strive for Realism and Immersion
 
