@@ -129,6 +129,8 @@ Remember, this Code of Conduct serves as a guideline to ensure a positive and in
 
 By participating in Woodcrest, you agree to abide by these principles and contribute to creating a welcoming and engaging environment for all residents. Together, we can build a vibrant and thriving roleplay community that inspires creativity, fosters friendships, and creates unforgettable stories.
 
+_**Note**: The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final._
+
 ### 14.0 Group Creation and Approval
 In Second Life, groups serve as a means of identification, communication, and moderation within the Woodcrest community. To ensure the integrity and cohesion of our roleplay environment, all groups must be approved and registered with the Woodcrest administration before they can be worn and displayed on the Woodcrest sims.
 
@@ -154,8 +156,6 @@ The Woodcrest administration reserves the right to monitor and moderate all grou
 
 By implementing this group creation and approval process, Woodcrest aims to foster a diverse and engaging roleplay environment while maintaining consistency, quality, and adherence to our shared values and standards.
 
-
-_**Note**: The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final._
 
 ### Additional Notes
 
