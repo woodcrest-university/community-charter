@@ -129,6 +129,32 @@ Remember, this Code of Conduct serves as a guideline to ensure a positive and in
 
 By participating in Woodcrest, you agree to abide by these principles and contribute to creating a welcoming and engaging environment for all residents. Together, we can build a vibrant and thriving roleplay community that inspires creativity, fosters friendships, and creates unforgettable stories.
 
+### 14.0 Group Creation and Approval
+In Second Life, groups serve as a means of identification, communication, and moderation within the Woodcrest community. To ensure the integrity and cohesion of our roleplay environment, all groups must be approved and registered with the Woodcrest administration before they can be worn and displayed on the Woodcrest sims.
+
+### 14.1 Group Proposal and Review
+If you wish to create a new group within the Woodcrest community, you must submit a proposal to the administration team for review. The proposal should include:
+
+- The purpose and goals of the group
+- The proposed group name and tag
+- The group's structure and leadership
+- How the group will contribute to and enhance the Woodcrest roleplay experience
+
+The administration team will review the proposal and determine whether the group aligns with the values, standards, and objectives of the Woodcrest community. They may request additional information or suggest changes to the proposal before making a final decision.
+
+### 14.2 Group Creation and Registration
+If the proposed group is approved by the administration, it must be created by a member of the admin team. This ensures that all groups within the Woodcrest community are properly registered and can be easily identified and managed.
+
+Once created, the group will be added to the Woodcrest sim registry of approved groups. Members of the group will be able to wear the group tag while on the Woodcrest sims without being automatically ejected.
+
+### 14.3 Discord Integration
+To facilitate communication and collaboration among group members outside of Second Life, approved groups will also be given a dedicated channel on the official Woodcrest Discord server. This allows group members to connect, plan events, and discuss roleplay opportunities in a centralized location.
+
+The Woodcrest administration reserves the right to monitor and moderate all group-related communication, both within Second Life and on the Discord server, to ensure compliance with the community's rules and guidelines.
+
+By implementing this group creation and approval process, Woodcrest aims to foster a diverse and engaging roleplay environment while maintaining consistency, quality, and adherence to our shared values and standards.
+
+
 _**Note**: The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final._
 
 ### Additional Notes
