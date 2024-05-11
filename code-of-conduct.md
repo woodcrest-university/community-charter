@@ -55,7 +55,7 @@ Avatars should resemble realistic human proportions and appearances. Non-human a
 
 Attachments and accessories should be realistic and appropriate for the setting. Avoid using items that are overly exaggerated, fantastical, or disruptive to the immersive experience.
 
-Avatars must depict characters who are 18 years of age or older. The portrayal of underage characters is strictly prohibited.
+All Woodcrest sims are classified as 'Adult'. Avatars must depict characters who are 18 years of age or older. The portrayal of underage characters is strictly prohibited, including the depiction of non-avatar children (e.g. 'prim' or 'animesh' babies/children); the portrayal of pregnancy and pregnancy-related roleplay is, however, allowed.  
 
 Residents are expected to ensure that their avatars are appropriately attired and refrain from overtly sexual or explicit displays in public spaces. Clothing and accessories should be tasteful and non-offensive.
 
