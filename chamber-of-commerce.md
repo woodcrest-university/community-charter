@@ -27,6 +27,7 @@
    d) Complies with all sim rules and regulations
 3.2 The Chamber may request additional information or suggest changes to the proposal before making a decision.
 3.3 Proposals will be processed in the order they are received for each specific parcel of land. The Chamber will strive to approve, deny, or provide an "under review" status for each proposal within one week of submission. However, if additional time is needed to address any issues or concerns with the application, the Chamber reserves the right to extend the review process as necessary. The Chamber will keep the applicant informed of any delays and provide an estimated timeline for a final decision.
+3.4 Proposals are reviewed by the Chamber of Commerce Board of Directors.
 
 ### 4. Post-Approval Steps
 4.1 Upon approval, individuals must complete the rental process for their designated commercial plot within one week.
@@ -83,3 +84,12 @@ By submitting a business proposal, individuals acknowledge and agree to abide by
 
 ## Contact Information
 For any questions or concerns regarding the Business Approval Process, please contact the Woodcrest Chamber of Commerce Board of Directors.
+
+### Chamber of Commerce Board of Directors
+The Chamber of Commerce Board of Directors is responsible for reviewing and approving business proposals submitted by individuals. The Board consists of the following members:
+
+- Sim Administrators
+- Sim Moderators
+- Roleplay Moderators
+
+The Board of Directors works together to ensure that all business proposals align with the goals and standards of the Woodcrest community, and that the approval process is fair and consistent for all applicants.
