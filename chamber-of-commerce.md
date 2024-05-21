@@ -4,9 +4,8 @@
 
 ### 1. Eligibility
 1.1 Any individual who wishes to open a business in Woodcrest must be a member in good standing of the community.
-1.2 Businesses must be operated on designated commercial rental plots within the Woodcrest.
-1.3 Individuals applying for a business license must not have any criminal history recorded with the Woodcrest Police Department.
-1.4 Individuals must not have any outstanding fines or unresolved infractions with the Woodcrest Police Department at the time of application.
+1.2 Businesses must be operated on designated commercial rental plots within Woodcrest.
+1.3 Individuals must not have any outstanding fines or unresolved infractions with the Woodcrest Police Department at the time of application.
 
 ### 2. Application Process
 2.1 Individuals must submit a business proposal to the Chamber of Commerce for review and approval before renting a commercial plot.
@@ -27,7 +26,7 @@
    c) Provides roleplay opportunities for the community
    d) Complies with all sim rules and regulations
 3.2 The Chamber may request additional information or suggest changes to the proposal before making a decision.
-3.3 Proposals will be approved or denied within one week of submission.
+3.3 Proposals will be processed in the order they are received for each specific parcel of land. The Chamber will strive to approve, deny, or provide an "under review" status for each proposal within one week of submission. However, if additional time is needed to address any issues or concerns with the application, the Chamber reserves the right to extend the review process as necessary. The Chamber will keep the applicant informed of any delays and provide an estimated timeline for a final decision.
 
 ### 4. Post-Approval Steps
 4.1 Upon approval, individuals must complete the rental process for their designated commercial plot within one week.
@@ -43,6 +42,8 @@
 6.1 Businesses that are owned and operated by the sim administrators (i.e. not individually-owned) will be exempt from the application and approval process.
 6.2 These businesses will be carefully selected to enhance the overall roleplay experience and fill any gaps in the Woodcrest business ecosystem.
 6.3 Sim-owned businesses will still be required to adhere to all relevant rules and regulations.
+6.4 Sim-owned businesses may be managed ICly by members of the community by appointment from Sim Administrators. Sim Administrators reserve the right to change sim-owned businesses or their management at any time, for any reason. 
+6.5 Sim staff retain final say in the operation and usage of sim-owned businesses, including their use within storylines and other roleplay scenarios.
 
 ### 7. Penalties for Non-Compliance
 7.1 Businesses that deviate from their approved proposal or violate any Woodcrest or North Carolina laws will face penalties, which may include:
@@ -51,7 +52,6 @@
    c) Eviction from the commercial rental plot
    d) In severe cases, forfeiture of any rent paid and permanent ban from operating a business in Woodcrest
 7.2 The specific penalties will be determined by the Chamber of Commerce and/or sim administrators based on the nature and severity of the violation.
-7.3 Individuals will have the opportunity to appeal any penalties through a formal process outlined by the Chamber.
 
 ## Required Permits and Licenses
 The following types of businesses will require additional permits or licenses to operate in Woodcrest:
@@ -68,21 +68,13 @@ The following types of zoning variances are provided as examples, but not strict
 Default zoning: Commercial rental plots are zoned for retail, service, or entertainment businesses only.
 Variance request: A player wants to open a bookstore with a small café inside. They would request a variance to allow for a mixed-use property that combines retail (bookstore) and food service (café) in a single commercial plot.
 
-### Parking requirements
-Default zoning: All businesses must provide a minimum number of parking spaces based on the size and type of the establishment.
-Variance request: A player wants to open a small, walk-in only ice cream shop with limited space for parking. They would request a variance to reduce the required number of parking spaces due to the nature of their business.
-
 ### Outdoor seating or displays
 Default zoning: Businesses are not allowed to have outdoor seating or display areas that extend beyond their designated commercial plot.
 Variance request: A player wants to open a garden center with an outdoor display area for plants and landscaping materials. They would request a variance to allow for an extended outdoor display area adjacent to their commercial plot.
 
-### Operating hours
-Default zoning: All businesses must operate within the standard hours of 6:00 AM to 10:00 PM.
-Variance request: A player wants to open a 24-hour diner to cater to the university crowd during late-night study sessions. They would request a variance to extend their operating hours beyond the default zoning regulations.
-
 ### Signage
-Default zoning: Business signs must be no larger than a specific size and placed within certain parameters on the commercial plot.
-Variance request: A player wants to install a larger, eye-catching sign for their boutique clothing store. They would request a variance to allow for a sign that exceeds the default size restrictions.
+Default zoning: Default zoning: Business signs must fit within the logical boundaries of the commercial plot (e.g. pre-existing signage, above-door, along banisters, small 'overhang' style sign). Signs must not impede on the traffic, pedestrian and vehicular, of the surrounding area.
+Variance request: A player wants to install a larger, eye-catching sign for their boutique clothing store. They would request a variance to allow for a sign that extend beyond their designated commercial plot restrictions.
 
 ## Conclusion
 The Chamber of Commerce reserves the right to amend this Business Approval Process as necessary to maintain a fair and equitable business environment in Woodcrest. Any changes will be communicated to the community in a timely manner.
