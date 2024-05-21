@@ -64,7 +64,7 @@ The following types of businesses will require additional permits or licenses to
 Individuals are responsible for researching and obtaining all necessary permits and licenses before submitting their business proposal. The Chamber of Commerce can provide guidance and resources to assist in this process, but ultimately it is the individual's responsibility to ensure compliance with all applicable laws and regulations.
 
 ## Zoning Variances
-The following types of zoning variances are provided are just examples and other types of variances may be considered on a case-by-case basis.
+The following types of zoning variances provided are just examples and other types of variances may be considered on a case-by-case basis.
 
 ### Mixed-use property
 Default zoning: Commercial rental plots are zoned for retail, service, or entertainment businesses only.
