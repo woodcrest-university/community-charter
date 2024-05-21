@@ -1,6 +1,6 @@
 # Woodcrest Chamber of Commerce
 ## Business Approval Process
-*Effective Date: [Insert Date]*
+*Effective Date: May 2024*
 
 ### 1. Eligibility
 1.1 Any individual who wishes to open a business in Woodcrest must be a member in good standing of the community.
@@ -31,9 +31,10 @@
 
 ### 4. Post-Approval Steps
 4.1 Upon approval, individuals must complete the rental process for their designated commercial plot within one week.
-4.2 Individuals must open their business within one week of renting the plot.
-4.3 Businesses must adhere to all sim rules and regulations, including any specific to commercial properties.
-4.4 The Chamber of Commerce reserves the right to revoke approval if the business deviates significantly from the approved proposal or violates any rules.
+4.2 Individuals must move into their business within one week of renting the plot. 
+4.3 Businesses must be open for business within one month of the approval of their business.
+4.4 Businesses must adhere to all sim rules and regulations, including any specific to commercial properties.
+4.5 The Chamber of Commerce reserves the right to revoke approval if the business deviates significantly from the approved proposal or violates any rules.
 
 ### 5. Changes and Transfers
 5.1 Any significant changes to the business (e.g. change of location, major shift in products/services) must be submitted to the Chamber for approval.
@@ -63,7 +64,7 @@ The following types of businesses will require additional permits or licenses to
 Individuals are responsible for researching and obtaining all necessary permits and licenses before submitting their business proposal. The Chamber of Commerce can provide guidance and resources to assist in this process, but ultimately it is the individual's responsibility to ensure compliance with all applicable laws and regulations.
 
 ## Zoning Variances
-The following types of zoning variances are provided as examples, but not strictly limited to:
+The following types of zoning variances are provided are just examples and other types of variances may be considered on a case-by-case basis.
 
 ### Mixed-use property
 Default zoning: Commercial rental plots are zoned for retail, service, or entertainment businesses only.
@@ -74,7 +75,7 @@ Default zoning: Businesses are not allowed to have outdoor seating or display ar
 Variance request: A player wants to open a garden center with an outdoor display area for plants and landscaping materials. They would request a variance to allow for an extended outdoor display area adjacent to their commercial plot.
 
 ### Signage
-Default zoning: Default zoning: Business signs must fit within the logical boundaries of the commercial plot (e.g. pre-existing signage, above-door, along banisters, small 'overhang' style sign). Signs must not impede on the traffic, pedestrian and vehicular, of the surrounding area.
+Default zoning: Business signs must fit within the logical boundaries of the commercial plot (e.g. pre-existing signage, above-door, along banisters, small 'overhang' style sign). Signs must not impede on the traffic, pedestrian and vehicular, of the surrounding area.
 Variance request: A player wants to install a larger, eye-catching sign for their boutique clothing store. They would request a variance to allow for a sign that extend beyond their designated commercial plot restrictions.
 
 ## Conclusion
