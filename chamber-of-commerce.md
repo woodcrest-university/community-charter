@@ -17,7 +17,7 @@
    e) Any special requirements or requests (e.g. zoning variances)
    f) Proof of any necessary permits or licenses (e.g. alcohol permit, health department certifications)
 2.3 Individuals are responsible for obtaining all required permits and licenses from the appropriate Woodcrest and North Carolina authorities before submitting their proposal.
-2.4 Proposals must be submitted via [designated in-game or out-of-game channel].
+2.4 Proposals must be submitted via https://woodcrest.university/town-life/business-proposal/
 
 ### 3. Review Process
 3.1 The Chamber of Commerce will review each proposal to ensure it meets the following criteria:
