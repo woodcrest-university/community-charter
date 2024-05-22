@@ -123,7 +123,6 @@ By submitting a business proposal, individuals acknowledge and agree to abide by
 ## Contact Information
 For any questions or concerns regarding the Business Approval Process, please contact the Woodcrest Chamber of Commerce Board of Directors.
 
-### Chamber of Commerce Board of Directors
 The Chamber of Commerce Board of Directors is responsible for reviewing and approving business proposals submitted by individuals. The Board consists of the following members:
 
 - Sim Administrators
