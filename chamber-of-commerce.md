@@ -13,12 +13,12 @@
 2.1 Individuals must submit a business proposal to the Chamber of Commerce for review and approval before renting a commercial plot.
 
 2.2 The proposal must include:
-   a) Business name and type (e.g. retail, service, entertainment, etc.)
-   b) Detailed description of products/services offered
-   c) Target customer base and how it fits into the Woodcrest community
-   d) Proposed location (specific rental plot if known)
-   e) Any special requirements or requests (e.g. zoning variances)
-   f) Proof of any necessary permits or licenses (e.g. alcohol permit, health department certifications)
+  - Business name and type (e.g. retail, service, entertainment, etc.)
+  - Detailed description of products/services offered
+  - Target customer base and how it fits into the Woodcrest community
+  - Proposed location (specific rental plot if known)
+  - Any special requirements or requests (e.g. zoning variances)
+  - Proof of any necessary permits or licenses (e.g. alcohol permit, health department certifications)
 
 2.3 Individuals are responsible for obtaining all required permits and licenses from the appropriate Woodcrest and North Carolina authorities before submitting their proposal.
 
@@ -26,10 +26,10 @@
 
 ### 3. Review Process
 3.1 The Chamber of Commerce will review each proposal to ensure it meets the following criteria:
-   a) Fits within the theme and setting of a university town in North Carolina
-   b) Does not significantly overlap with existing businesses in Woodcrest
-   c) Provides roleplay opportunities for the community
-   d) Complies with all sim rules and regulations
+  - Fits within the theme and setting of a university town in North Carolina
+  - Does not significantly overlap with existing businesses in Woodcrest
+  - Provides roleplay opportunities for the community
+  - Complies with all sim rules and regulations
 
 3.2 The Chamber may request additional information or suggest changes to the proposal before making a decision.
 
@@ -64,38 +64,36 @@
 
 6.5 Sim staff retain final say in the operation and usage of sim-owned businesses, including their use within storylines and other roleplay scenarios.
 
-### 8. Required Permits and Licenses
+### 7. Required Permits and Licenses
 7.1 The following businesses require additional permits or licenses to operate within Woodcrest:
 
-  a) Restaurants and food service:
+#### Restaurants and food service:
   - Health department certification
   - Food handlers permits for all employees
-
-  b) Bars and nightclubs:
+#### Bars and nightclubs:
   - Alcohol permit
-
-  c) Cannabis dispensaries: 
+#### Cannabis dispensaries: 
   - Dispensary license
 
 7.2 Permits and licenses can be issued by the following organizations:
-  a) Woodcrest University Clinic
+
+#### Woodcrest University Clinic
   - Heath department certification
   - Food handler permit
   - Dispensary license
-  b) Woodcrest Police Department, on behalf of North Carolina Alcoholic Beverage Control Commission
+#### Woodcrest Police Department, on behalf of North Carolina Alcoholic Beverage Control Commission
   - Alcohol permit
 
 7.3 Individuals are responsible for researching and obtaining all necessary permits and licenses prior submitting their business proposal. The Chamber of Commerce can provide guidance and resources to assist in this process, but ultimately it is the individual's responsibility to ensure compliance with all applicable laws and regulations.
 
-### 7. Penalties for Non-Compliance
+### 8. Penalties for Non-Compliance
 8.1 Compliance for all necessary licenses and permits will be governed by the issuing organizations.
 
 8.2 Businesses that deviate from their approved proposal, lapses in compliance with their permits or violate any Woodcrest or North Carolina laws will face penalties, which may include:
-
-  a) Fines or civil penalties
-  b) Temporary closure or suspension of operations
-  c) Eviction from the commercial rental plot
-  d) In severe cases, forfeiture of any rent paid and permanent ban from operating a business in Woodcrest
+  - Fines or civil penalties
+  - Temporary closure or suspension of operations
+  - Eviction from the commercial rental plot
+  - In severe cases, forfeiture of any rent paid and permanent ban from operating a business in Woodcrest
 
 8.3 The specific penalties will be determined by the Chamber of Commerce and/or sim administrators based on the nature and severity of the violation.
 
