@@ -9,6 +9,10 @@
 
 1.3 Individuals must not have any outstanding fines or unresolved infractions with the Woodcrest Police Department at the time of application.
 
+1.4 All businesses must adhere to any current Rental Agreement and Condition terms, found here: https://woodcrest.university/town-life/rentals/
+
+1.5 All businesses must abide by any current Designated Use terms outlined in the Rental Agreement.
+
 ### 2. Application Process
 2.1 Individuals must submit a business proposal to the Chamber of Commerce for review and approval before renting a commercial plot.
 
