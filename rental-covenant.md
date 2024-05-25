@@ -1,29 +1,31 @@
 # Rental Agreement and Conditions
 
 When you choose to rent within Woodcrest, you're agreeing to adhere to the following conditions:
-- Community and Compliance: As a tenant or subtenant, you must follow Woodcrest's sim rules and the Linden Labs TOS. Failure to comply could lead to eviction without a refund for any rule violations.
-- Designated Uses: Units labeled as "Shop" are strictly for storefront or shop purposes and should not be used as residential spaces. Selling items or services for L$ in these shops requires Woodcrest staff approval.
+- All Woodcrest tenants and subtenants must follow the rules of the sim, as well as the Linden Labs TOS. Repeated violations of any rules could result in permanent banishment plus termination of your rental unit without a refund.
+- Any rentals designated as a "Shop" are intended for storefront/shop use only! Do not use shop units as a residential home. 
+- Shops are for RP purposes only. Do not actually sell merchandise or services for L$ without approval from a Woodcrest staff member.
 
 ### Land Group Membership
-- Group Membership: To prevent automatic return of your objects, tenants and subtenants need to be part of the “Woodcrest Landgroup”. Invitations to the group are issued after rental payment.
-- Group Invitation Issues: If you encounter problems receiving a group invite via the rental meter, please reach out to Woodcrest staff.
+- Tenants and subtenants must be in the group titled "Woodcrest Landgroup". Otherwise, objects will be automatically returned. Invites will only be sent after a unit is paid. 
+- If your rental meter won't invite you to the group, contact a Woodcrest staff member.
 
 ### Decorating and Prim Usage
-- Lag Awareness: Decorate responsibly to avoid causing sim lag. Objects causing significant lag will be returned.
-- Boundary Respect: Keep permanent prims within the boundaries of your rented space. Objects found outside these limits will be returned.
-- Temporary Rezzing: Pets and vehicles can be rezzed temporarily during RP sessions but must not be left out permanently.
-- Expiration: Items will be returned upon rental expiration.
+- Tenants must be lag-conscious when decorating. We hold the right to return any rezzed objects that are found to cause excessive lag to our sims.
+- Permanent prims must remain within the parcel or room boundaries. Any unauthorized or stray prims found beyond rented property will be returned.
+- Pets and vehicles: You may temporarily rez one while you are RPing. However, please do not leave pets or vehicles permanently rezzed, including inside your unit.
+- If your rental expires, your items will be returned.
 
 ### Fees and Rates
-- Pricing: Rentals follow a rate of **L$2.5 per prim, with an additional L$25 maintenance fee**. Prim limits can be increased in increments of 10, subject to unit type and availability.
+- All rentals on the London Docks Sim use the following rate for pricing: **L$2.5 per prim, plus a flat L$25 maintenance fee**.
+- Prim limits may be upgraded in increments of 10. Maximum limits are based upon unit type and prim availability.
 
 ### Privacy and Security
-- Roleplay and Privacy: While interaction is a part of the community, entering someone's residential unit without permission is not allowed (does not apply to shops). Use the proper channels to report any trespassing.
-- Security Orbs: The use of security orbs is prohibited.
+- Woodcrest is a roleplay community. Privacy could be affected by players looking to interact. However, players may not enter your residency without permission (residential units only - *does not apply to shops*). Report trespassers to a moderator immediately.
+- Security orbs are not allowed.
 
 ### Additional Terms
-- Subletting: Subletting your rental is not allowed.
-- Refunds: No refunds are provided, but credit can be transferred between units.
-- Rental Payments: If rent is overdue, continuing to rent the same unit may result in a deduction from your meter equal to the overdue period, ensuring fairness among all renters.
+- Subletting is prohibited. 
+- There are no refunds. Only credit transfer from one unit to another.
+- If you fail to pay your rent within your unit's "overdue" period, then continue renting the same unit, we may remove time from your meter equal to the overdue period. This is done in fairness to other renters, so nobody gets "free rental time".
 
-###### _Woodcrest Rental Covenant, v1.0_
+###### _Woodcrest Rental Covenant, v1.1_
