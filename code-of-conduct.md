@@ -200,9 +200,6 @@ If a resident believes they have been unfairly moderated or penalized, they may 
 
 The administration team will review the appeal and make a final decision based on the evidence provided and the best interests of the community. The decision of the administration team is final and binding.
 
-By incorporating this amendment into your Code of Conduct, you establish clear expectations for respectful communication and provide a transparent, step-by-step process for addressing violations. This helps ensure that moderation actions are justified, consistent, and less likely to be perceived as unfair or biased.
-
-
 _**Note**: The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final._
 
 ### Additional Notes
