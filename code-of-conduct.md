@@ -173,7 +173,7 @@ The guidelines for respectful communication outlined in section 15.1 primarily a
 However, it is important to note that in-character (IC) actions and behaviors that are disrespectful, harassing, or inappropriate towards staff members or the community will be met with appropriate in-character consequences. This may include, but is not limited to:
 - IC legal repercussions, such as fines, arrests, or imprisonment
 - IC social consequences, such as damaged reputation, loss of trust, or exclusion from certain groups or events
-- IC economic consequences, such as loss of business, contracts, or partnerships
+- IC economic consequences, such as loss of contracts, or partnerships
 
 The Woodcrest staff will work with the community to ensure that IC consequences are proportionate, consistent, and in line with the established lore and laws of the shared world.
 
