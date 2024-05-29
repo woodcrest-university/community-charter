@@ -154,6 +154,51 @@ The Woodcrest administration reserves the right to monitor and moderate all grou
 
 By implementing this group creation and approval process, Woodcrest aims to foster a diverse and engaging roleplay environment while maintaining consistency, quality, and adherence to our shared values and standards.
 
+### 15.0 Respect for Staff and Community Decisions
+
+All Woodcrest residents are expected to treat staff members and the community with respect, both in their interactions and when expressing opinions or disagreements. While constructive feedback and open dialogue are encouraged, it must be done in a respectful and professional manner.
+
+#### 15.1 Respectful Communication
+
+When voicing opinions or disagreements with staff decisions or community policies, residents should:
+- Use polite and respectful language
+- Avoid personal attacks, insults, or derogatory remarks
+- Focus on the issue at hand and provide constructive suggestions or alternative perspectives
+- Recognize that staff members are acting in the best interest of the entire community
+
+##### 15.1.1 OOC Communication and IC Actions
+
+The guidelines for respectful communication outlined in section 15.1 primarily apply to out-of-character (OOC) interactions, such as discussions on forums, Discord, or other community platforms.
+
+However, it is important to note that in-character (IC) actions and behaviors that are disrespectful, harassing, or inappropriate towards staff members or the community will be met with appropriate in-character consequences. This may include, but is not limited to:
+- IC legal repercussions, such as fines, arrests, or imprisonment
+- IC social consequences, such as damaged reputation, loss of trust, or exclusion from certain groups or events
+- IC economic consequences, such as loss of contracts, or partnerships
+
+The Woodcrest staff will work with the community to ensure that IC consequences are proportionate, consistent, and in line with the established lore and laws of the shared world.
+
+It is crucial for residents to understand that while IC actions may have IC consequences, they should not be used as a means to circumvent the guidelines for respectful OOC communication. Repeated or severe IC actions that are deemed to be a deliberate attempt to harass, bully, or undermine staff members or the community will be addressed as an OOC violation of the Code of Conduct and may result in the moderation steps outlined in section 15.2.
+
+#### 15.2 Moderation and Penalties
+
+In cases where a resident engages in disrespectful, harassing, or inappropriate behavior towards staff or the community, the following moderation steps will be taken:
+
+1. First offense: The resident will receive a formal warning from the moderation team, outlining the specific behavior that violates the Code of Conduct and the expected corrective action.
+
+2. Second offense: The resident will be temporarily suspended from participating in Woodcrest roleplay and community events for a period determined by the moderation team, based on the severity of the offense. This suspension may include temporary removal from the Woodcrest group, restricted access to sims, or other appropriate measures.
+
+3. Third offense: The resident will be permanently banned from the Woodcrest community, including removal from the Woodcrest group and a permanent ban from all Woodcrest sims.
+
+The administration team reserves the right to escalate the penalty to a higher level, including immediate permanent banning, for severe or egregious violations of the Code of Conduct.
+
+#### 15.3 Reporting and Appeals
+
+If a resident believes they have been unfairly moderated or penalized, they may submit an appeal to the Woodcrest Sim Security, Sim Moderators or Administration teams. The appeal should include:
+- A detailed description of the situation and the moderation action taken
+- The reasons why the resident believes the moderation was unjust or inappropriate
+- Any relevant evidence or screenshots supporting their case
+
+The administration team will review the appeal and make a final decision based on the evidence provided and the best interests of the community. The decision of the administration team is final and binding.
 
 _**Note**: The administration reserves the right to interpret and enforce this Code of Conduct as necessary to maintain the integrity and well-being of the Woodcrest community. Any decisions made by the administration regarding the application of these guidelines are final._
 
