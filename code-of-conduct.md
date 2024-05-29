@@ -189,7 +189,7 @@ In cases where a resident engages in disrespectful, harassing, or inappropriate 
 
 3. Third offense: The resident will be permanently banned from the Woodcrest community, including removal from the Woodcrest group and a permanent ban from all Woodcrest sims.
 
-The moderation team reserves the right to escalate the penalty to a higher level, including immediate permanent banning, for severe or egregious violations of the Code of Conduct.
+The administration team reserves the right to escalate the penalty to a higher level, including immediate permanent banning, for severe or egregious violations of the Code of Conduct.
 
 #### 15.3 Reporting and Appeals
 
