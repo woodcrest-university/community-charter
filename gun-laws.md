@@ -7,7 +7,7 @@ In Woodcrest, Massachusetts, we prioritize the safety and security of our commun
 
 To purchase, possess, and carry a firearm throughout the state, Massachusetts residents must apply for a License to Carry Firearms (LTC). With the LTC permit, you can purchase, possess, and transport all legal handguns, rifles, shotguns, magazines, feeding devices, and ammunition.  Massachusetts does not engage in reciprocity with other states regarding concealed carry permits
 
-#Open Carry
+## Open Carry
 
 It's important to note that Woodcrest is not open carry friendly; weapons found on individuals in public will be confiscated. Additionally, those with a criminal background are ineligible for a firearm license. This process underscores our dedication to responsible gun ownership and the collective well-being of all residents in Woodcrest.
 
