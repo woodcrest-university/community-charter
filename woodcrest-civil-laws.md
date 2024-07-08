@@ -9,15 +9,15 @@ To comply with Woodcrest's commitment to safety and order, the following civil l
 Adherence to these regulations is essential for the well-being and security of the Woodcrest community.
 
 
-## North Carolina State Law
+## Massachusetts State Law
 ​
-Under North Carolina State Law, several important regulations are established to ensure the safety and legality of actions within the state:
+Under Massachusetts State Law, several important regulations are established to ensure the safety and legality of actions within the state:
 
 - Marijuana possession remains illegal except for cases where it has been authorized for medical purposes. Individuals must follow strict guidelines and obtain the necessary permissions for medical use to avoid legal repercussions.
 - Indecent exposure, defined as the willful exposure of one's genitals in any public place, is considered a criminal act. Exceptions to this law include mothers who are breastfeeding their infants and activities within the scope of authorized adult-oriented businesses, where such exposure is regulated under specific conditions.
 - For the operation of motor vehicles, possession of firearms, and use of medical marijuana, individuals are required to obtain the appropriate licenses from the Department of Motor Vehicles (DMV). These licenses serve as official documentation of an individual's eligibility and legal right to engage in these activities, ensuring compliance with state regulations.
 
-Adherence to these laws is critical for maintaining the legal and social fabric of North Carolina, protecting the rights and safety of its residents.
+Adherence to these laws is critical for maintaining the legal and social fabric of Massachusetts, protecting the rights and safety of its residents.
 
 
 ## United States Federal Law​
