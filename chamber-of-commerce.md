@@ -24,13 +24,13 @@
   - Any special requirements or requests (e.g. zoning variances)
   - Proof of any necessary permits or licenses (e.g. alcohol permit, health department certifications)
 
-2.3 Individuals are responsible for obtaining all required permits and licenses from the appropriate Woodcrest and North Carolina authorities before submitting their proposal.
+2.3 Individuals are responsible for obtaining all required permits and licenses from the appropriate Woodcrest and Massachusetts authorities before submitting their proposal.
 
 2.4 Proposals must be submitted via https://woodcrest.university/town-life/business-proposal/
 
 ### 3. Review Process
 3.1 The Chamber of Commerce will review each proposal to ensure it meets the following criteria:
-  - Fits within the theme and setting of a university town in North Carolina
+  - Fits within the theme and setting of a university town in Massachusetts
   - Does not significantly overlap with existing businesses in Woodcrest
   - Provides roleplay opportunities for the community
   - Complies with all sim rules and regulations
@@ -85,7 +85,7 @@
   - Heath department certification
   - Food handler permit
   - Dispensary license
-#### Woodcrest Police Department, on behalf of North Carolina Alcoholic Beverage Control Commission
+#### Woodcrest Police Department, on behalf of Massachusetts Alcoholic Beverage Control Commission
   - Alcohol permit
 
 7.3 Individuals are responsible for researching and obtaining all necessary permits and licenses prior submitting their business proposal. The Chamber of Commerce can provide guidance and resources to assist in this process, but ultimately it is the individual's responsibility to ensure compliance with all applicable laws and regulations.
@@ -93,7 +93,7 @@
 ### 8. Penalties for Non-Compliance
 8.1 Compliance for all necessary licenses and permits will be governed by the issuing organizations.
 
-8.2 Businesses that deviate from their approved proposal, lapses in compliance with their permits or violate any Woodcrest or North Carolina laws will face penalties, which may include:
+8.2 Businesses that deviate from their approved proposal, lapses in compliance with their permits or violate any Woodcrest or Massachusetts laws will face penalties, which may include:
   - Fines or civil penalties
   - Temporary closure or suspension of operations
   - Eviction from the commercial rental plot

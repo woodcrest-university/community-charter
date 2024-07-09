@@ -17,7 +17,7 @@ Under Massachusetts State Law, several important regulations are established to 
 - Indecent exposure, defined as the willful exposure of one's genitals in any public place, is considered a criminal act. Exceptions to this law include  activities within the scope of authorized adult-oriented businesses, where such exposure is regulated under specific conditions.
 - For the operation of motor vehicles, possession of firearms, and use of medical marijuana, individuals are required to obtain the appropriate licenses from the Department of Motor Vehicles (DMV). These licenses serve as official documentation of an individual's eligibility and legal right to engage in these activities, ensuring compliance with state regulations.
 
-Adherence to these laws is critical for maintaining the legal and social fabric of North Carolina, protecting the rights and safety of its residents.
+Adherence to these laws is critical for maintaining the legal and social fabric of Massachusetts, protecting the rights and safety of its residents.
 
 
 ## United States Federal Law​
