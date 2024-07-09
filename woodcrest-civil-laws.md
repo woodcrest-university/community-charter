@@ -9,12 +9,12 @@ To comply with Woodcrest's commitment to safety and order, the following civil l
 Adherence to these regulations is essential for the well-being and security of the Woodcrest community.
 
 
-## North Carolina State Law
+## Massachusetts State Law
 ​
-Under North Carolina State Law, several important regulations are established to ensure the safety and legality of actions within the state:
+Under Massachusetts State Law, several important regulations are established to ensure the safety and legality of actions within the state:
 
-- Marijuana possession remains illegal except for cases where it has been authorized for medical purposes. Individuals must follow strict guidelines and obtain the necessary permissions for medical use to avoid legal repercussions.
-- Indecent exposure, defined as the willful exposure of one's genitals in any public place, is considered a criminal act. Exceptions to this law include mothers who are breastfeeding their infants and activities within the scope of authorized adult-oriented businesses, where such exposure is regulated under specific conditions.
+- Marijuana possession is limited to 1 ounce on your person and 10 located at your residence.  Only adults over the age of 21 are allowed to use marijuana and only within their private residence.  Public consumption is illegal unless specific Special Requests are made prior to the event.
+- Indecent exposure, defined as the willful exposure of one's genitals in any public place, is considered a criminal act. Exceptions to this law include  activities within the scope of authorized adult-oriented businesses, where such exposure is regulated under specific conditions.
 - For the operation of motor vehicles, possession of firearms, and use of medical marijuana, individuals are required to obtain the appropriate licenses from the Department of Motor Vehicles (DMV). These licenses serve as official documentation of an individual's eligibility and legal right to engage in these activities, ensuring compliance with state regulations.
 
 Adherence to these laws is critical for maintaining the legal and social fabric of North Carolina, protecting the rights and safety of its residents.
@@ -25,4 +25,4 @@ Adherence to these laws is critical for maintaining the legal and social fabric 
 Under United States Federal Law, the legal age for alcohol consumption is set at 21 years old. This law is enforced nationwide, requiring individuals to be at least 21 years of age to purchase or publicly consume alcoholic beverages. This regulation aims to reduce alcohol-related accidents and health issues among younger populations, promoting responsible drinking practices across the country. Compliance with this law is mandatory, and failure to adhere can result in legal consequences for both individuals and establishments serving alcohol.
 
 
-###### _Woodcrest Civil Laws, rev. 2024-02-17_2_
+
