@@ -2,25 +2,59 @@
 
 ## General Guidelines for Events
 
-1. LOCATION: London Docks should be first priority as location for any event. Ideally ground level using existing location or structures (See below for location information). Alternatively Greek houses can use their house platforms for any events which require a skybox or special build, business or school related events can be held on the large events platform above London Docks. If a very large area is needed, and with permission of the Events Coordinator, the Event Platform above the Ocean Sim can be used.
-2. PRIM LIMITS: Decor and/or Builds for events should be kept under 500 LI. With approval from the Events Coordinator, this can go as high as 1000 LI if needed. Event planners should make every effort to keep prims under the maximum limits and make use of low LI items in their builds and decor.
-3. BUSINESSES: Businesses holding events will need to abide by the same rules as above, however if holding an event outside of their business location, the event build and location will need pre-approval from the Events Coordinator.
-4. SETUP & TEARDOWN: Events should not be set up more than a week prior to the event date, and should ideally be set up as close to the event date as possible. All event builds and decor should be removed within 24 hours after the event has taken place.
+### Location
+For University-related events, the following locations should be considered in order of priority:
+  - Woodcrest University
+  - Woodcrest Bay
+  - London Docks
 
+For General, non-university based events, the following locations should be considered in order of priority:
+  - London Docks
+  - Woodcrest Bay
+  - Woodcrest University
+ 
+Any ground level using existing location or event structures (See below for location information) may be considered for hosting events, but event platforms (ie: skyboxed events) must be approved by the Events Coordinator before event setup is permitted.
+
+### Prim Limits
+Decor and/or Builds for events should be kept under 500 LI. With approval from the Events Coordinator, this can go as high as 1000 LI if needed. Event planners should make every effort to keep prims under the maximum limits and make use of low LI items in their builds and decor.
+
+### Businesses
+Businesses holding events will need to abide by the same rules as above, however if holding an event outside of their business location, the event build and location will need pre-approval from the Events Coordinator.
+
+### Setup & Teardown
+Events should not be set up more than a week prior to the event date, and should ideally be set up as close to the event date as possible. All event builds and decor should be removed within 24 hours after the event has taken place.
+
+### Event Venue Locations
 The following locations can be used for events without requiring prior approval:
-- Beach
-- Boardwalk
-- Bowling Alley
-- Arcade
-- The Yacht 
-- Community Events Center (white barn bldg behind Tight Ends, near the beach)
 
-The following locations can be used for events but must be requested for approval by the managers:
-- Tight Ends (see Adam Spade (Darkheart 60110))
-- Chandelier Room (See Sharon Skydancer)
-- The Hot Springs (See Strawberry Moo)
+#### London Docks
+- North Western Event Venue: Barn
+- South Western Event Venue: Beach
+- River Front Event Venue: Warehouse
+- Public Outdoor Venues (Central Pavillion, Campgroups, Beach, Park)
 
-Greek Houses may use the Greek Quad lawn or pool for any events. The football field is available for any school related events. The green lawn space on the North Sim may be used if requested in advance, with approval of the Event Coordinator. If needed, the streets can be blocked off for an event but must be pre-approved by the Events Coordinator and the PD will need to provide blockades.
+The following business locations can be used for events but must be requested for approval by the managers:
+- Tight Ends
+- Woodcrest Cinema
+
+Greek Houses may use the Greek Quad lawn or pool for any events. 
+
+#### Woodcrest University
+ - Garden Pavillion
+ - Athletics Center Gym
+ - Quad
+ - Beach
+
+ The following business locations can be used for events but must be requested for approval by the managers:
+ - Starpugs Upper Floor (stage)
+
+#### Woodcrest Bay
+
+TBA
+
+#### Additional Notes
+
+If needed, the streets can be blocked off for an event but must be pre-approved by the Events Coordinator and the PD will need to provide blockades.
 
 NOTE: All of the above locations may be decorated as needed for events, within the allowed prim limits, however no buildings or large structures may be used without prior approval of the Events Coordinator.
 
@@ -58,12 +92,11 @@ Note:  All calendar postings will be done on a first come, first served basis. I
 
 Event Posters should be submitted at the time or shortly after an event has been placed on the Calendar and should include a date and time as well as the information as to who is holding or sponsoring the event. Posters should be submitted to the Events Coordinator and if you would like your poster to be included in the Beaver Pride Newspaper you may also provide a copy to the editor. Poster dimensions should be 3:4 aspect ratio (example: 1024 pixels tall x 768 wide).
 
-Events Coordinator
+## Contacts
+
+Woodcrest Events Coordinator
 
 Jaelynn Strangelove
 
-Beaver Pride Editor
 
-Hanako Blossom (hana.starchild)
-
-###### _Woodcrest Event Guidelines, v1.0_
+###### _Woodcrest Event Guidelines, rev. 082324.1
