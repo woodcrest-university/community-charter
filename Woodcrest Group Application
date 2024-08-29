@@ -1,159 +1,99 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Woodcrest Roleplay Group Proposal Form</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
-        h1, h2 { color: #2c3e50; }
-        label { display: block; margin-top: 20px; font-weight: bold; }
-        input[type="text"], textarea, select { width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
-        textarea { height: 100px; }
-        .example { background-color: #f0f0f0; padding: 10px; border-left: 3px solid #2c3e50; margin-top: 10px; }
-    </style>
-</head>
-<body>
-    <h1>Woodcrest Roleplay Group Proposal Form</h1>
-    <p>Thank you for your interest in creating a roleplay group for our Second Life town, Woodcrest. Please fill out the following form to submit your group proposal. Provide as much detail as possible to help us understand your group's concept and how it will fit into our town's roleplay environment.</p>
+# Woodcrest Roleplay Group Proposal Template
 
-    <form id="groupProposalForm">
-        <h2>1. Group Name and Type</h2>
-        <label for="groupName">Group Name:</label>
-        <input type="text" id="groupName" name="groupName" required>
+Thank you for your interest in creating a roleplay group for our Second Life town, Woodcrest. Please fill out the following template to submit your group proposal. Provide as much detail as possible to help us understand your group's concept and how it will fit into our town's roleplay environment.
 
-        <label for="groupType">Group Type:</label>
-        <select id="groupType" name="groupType" required>
-            <option value="">Select a type</option>
-            <option value="law_enforcement">Law Enforcement</option>
-            <option value="criminal_organization">Criminal Organization</option>
-            <option value="business">Business</option>
-            <option value="social_club">Social Club</option>
-            <option value="vigilante">Vigilante</option>
-            <option value="other">Other</option>
-        </select>
+## 📜 Group Name and Type
 
-        <label for="alignment">Alignment:</label>
-        <select id="alignment" name="alignment" required>
-            <option value="">Select an alignment</option>
-            <option value="lawful_good">Lawful Good</option>
-            <option value="neutral_good">Neutral Good</option>
-            <option value="chaotic_good">Chaotic Good</option>
-            <option value="lawful_neutral">Lawful Neutral</option>
-            <option value="true_neutral">True Neutral</option>
-            <option value="chaotic_neutral">Chaotic Neutral</option>
-            <option value="lawful_evil">Lawful Evil</option>
-            <option value="neutral_evil">Neutral Evil</option>
-            <option value="chaotic_evil">Chaotic Evil</option>
-        </select>
+- Provide your group's name
+- Classify its type (e.g., law enforcement, criminal organization, business, social club, etc.)
+- Include an alignment descriptor (e.g., lawful good, chaotic neutral, lawful evil)
 
-        <div class="example">
-            Example: "Woodcrest Guardian Angels - Vigilante Group (Chaotic Good)"
-        </div>
+**Example:** "Woodcrest Guardian Angels - Vigilante Group (Chaotic Good)"
 
-        <h2>2. Group Backstory</h2>
-        <label for="groupBackstory">Provide a brief history of your group that aligns with the established history of Woodcrest, MA:</label>
-        <textarea id="groupBackstory" name="groupBackstory" required></textarea>
+## 🏛️ Group Backstory
 
-        <div class="example">
-            Example: "Founded in 2010 after a series of unsolved crimes, the Woodcrest Guardian Angels started as a neighborhood watch program. Over time, they've evolved into a well-organized vigilante group, operating in the grey areas of the law to protect Woodcrest citizens."
-        </div>
+- Describe your group's origin and how it fits into Woodcrest's history
+- Explain the group's evolution and current standing in the community
 
-        <h2>3. Group Goals and Motives</h2>
-        <label for="groupGoals">List 3-5 primary objectives for your group:</label>
-        <textarea id="groupGoals" name="groupGoals" required></textarea>
+**Example:** "Founded in 2010 after a series of unsolved crimes, the Woodcrest Guardian Angels started as a neighborhood watch program. Over time, they've evolved into a well-organized vigilante group, operating in the grey areas of the law to protect Woodcrest citizens."
 
-        <label for="groupMotives">Explain the driving forces behind these goals:</label>
-        <textarea id="groupMotives" name="groupMotives" required></textarea>
+## 🎭 Group Goals and Motives
 
-        <div class="example">
-            Example Goals:
-            1. Reduce crime rates in Woodcrest by 30% within a year
-            2. Establish a network of informants throughout the town
-            3. Gain public support and recognition as a legitimate peacekeeping force
+- List 3-5 primary objectives for your group
+- Explain the driving forces behind these goals
 
-            Example Motive: The Guardian Angels believe the official law enforcement is inadequate and corrupt, driving them to take matters into their own hands.
-        </div>
+**Example:**
+1. Reduce crime rates in Woodcrest by 30% within a year
+2. Establish a network of informants throughout the town
+3. Gain public support and recognition as a legitimate peacekeeping force
 
-        <h2>4. Group Structure and Hierarchy</h2>
-        <label for="groupStructure">Outline the leadership roles and general member positions:</label>
-        <textarea id="groupStructure" name="groupStructure" required></textarea>
+**Motive:** The Guardian Angels believe the official law enforcement is inadequate and corrupt, driving them to take matters into their own hands.
 
-        <label for="decisionMaking">Describe how decisions are made within the group:</label>
-        <textarea id="decisionMaking" name="decisionMaking" required></textarea>
+## 👥 Group Structure and Hierarchy
 
-        <div class="example">
-            Example Structure:
-            - Leader: The Archangel (elected by senior members)
-            - Senior Members: Seraphim (5 positions)
-            - Regular Members: Guardians
-            - Recruits: Fledglings
+- Outline the leadership roles and general member positions
+- Describe how decisions are made within the group
 
-            Example Decision Making: Decisions are made through a council of Seraphim, with the Archangel having the final say.
-        </div>
+**Example:**
+- Leader: The Archangel (elected by senior members)
+- Senior Members: Seraphim (5 positions)
+- Regular Members: Guardians
+- Recruits: Fledglings
 
-        <h2>5. Onboarding Process</h2>
-        <label for="onboardingProcess">Detail the steps for new members to join your group, including any trials, oaths, or initiation rituals:</label>
-        <textarea id="onboardingProcess" name="onboardingProcess" required></textarea>
+Decisions are made through a council of Seraphim, with the Archangel having the final say.
 
-        <div class="example">
-            Example Onboarding Process:
-            1. Potential recruits must be vouched for by an existing Guardian
-            2. Recruits undergo a month-long training program
-            3. Recruits must pass a physical fitness test and a moral dilemma scenario
-            4. New members swear an oath of loyalty and secrecy in a candlelit ceremony
-        </div>
+## 🆕 Onboarding Process
 
-        <h2>6. Headquarters and Meeting Locations</h2>
-        <label for="headquarters">Describe your group's main base of operations:</label>
-        <textarea id="headquarters" name="headquarters" required></textarea>
+- Detail the steps for new members to join your group
+- Include any trials, oaths, or initiation rituals
 
-        <label for="meetingLocations">List any secondary meeting spots or safe houses:</label>
-        <textarea id="meetingLocations" name="meetingLocations" required></textarea>
+**Example:**
+1. Potential recruits must be vouched for by an existing Guardian
+2. Recruits undergo a month-long training program
+3. Recruits must pass a physical fitness test and a moral dilemma scenario
+4. New members swear an oath of loyalty and secrecy in a candlelit ceremony
 
-        <div class="example">
-            Example: "The Guardian Angels operate from an abandoned fire station on the outskirts of Woodcrest. They also maintain several safe houses throughout the town, disguised as ordinary residences."
-        </div>
+## 🏠 Headquarters and Meeting Locations
 
-        <h2>7. Roleplay Scenarios and Events</h2>
-        <label for="roleplayScenarios">Propose 2-3 potential roleplay scenarios involving your group:</label>
-        <textarea id="roleplayScenarios" name="roleplayScenarios" required></textarea>
+- Describe your group's main base of operations
+- List any secondary meeting spots or safe houses
 
-        <label for="recurringEvents">Suggest any recurring events or activities your group would organize:</label>
-        <textarea id="recurringEvents" name="recurringEvents" required></textarea>
+**Example:** "The Guardian Angels operate from an abandoned fire station on the outskirts of Woodcrest. They also maintain several safe houses throughout the town, disguised as ordinary residences."
 
-        <div class="example">
-            Example Scenarios:
-            1. A high-profile kidnapping case that the police are struggling to solve
-            2. Uncovering a conspiracy within the Woodcrest Police Department
+## 🎭 Roleplay Scenarios and Events
 
-            Example Recurring Event: Monthly self-defense classes for Woodcrest residents
-        </div>
+- Propose 2-3 potential roleplay scenarios involving your group
+- Suggest any recurring events or activities your group would organize
 
-        <h2>8. Interactions with Other Groups</h2>
-        <label for="groupInteractions">Describe potential alliances or conflicts with existing Woodcrest groups:</label>
-        <textarea id="groupInteractions" name="groupInteractions" required></textarea>
+**Example Scenarios:**
+1. A high-profile kidnapping case that the police are struggling to solve
+2. Uncovering a conspiracy within the Woodcrest Police Department
 
-        <div class="example">
-            Example: "The Guardian Angels have a tense relationship with the Woodcrest Police Department but maintain a secret alliance with certain honest officers. They are wary of new vigilante groups and may see them as potential rivals or threats to their operations."
-        </div>
+**Recurring Event:** Monthly self-defense classes for Woodcrest residents
 
-        <h2>9. Growth and Development Plans</h2>
-        <label for="growthPlans">Outline how you envision your group evolving over time, including any long-term goals or aspirations:</label>
-        <textarea id="growthPlans" name="growthPlans" required></textarea>
+## 🤝 Interactions with Other Groups
 
-        <div class="example">
-            Example: "The Guardian Angels aim to establish a formal training academy for new members, expand their influence to neighboring towns, and ultimately force a reform of the Woodcrest Police Department through their actions and public pressure."
-        </div>
+- Describe potential alliances or conflicts with existing Woodcrest groups
+- Explain how your group might react to new groups forming in the town
 
-        <input type="submit" value="Submit Proposal" style="margin-top: 20px; padding: 10px 20px; background-color: #2c3e50; color: white; border: none; border-radius: 4px; cursor: pointer;">
-    </form>
+**Example:** "The Guardian Angels have a tense relationship with the Woodcrest Police Department but maintain a secret alliance with certain honest officers. They are wary of new vigilante groups and may see them as potential rivals or threats to their operations."
 
-    <script>
-        document.getElementById('groupProposalForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            alert('Thank you for submitting your group proposal. The Woodcrest Roleplay Administration will review it shortly.');
-        });
-    </script>
-</body>
-</html>
+## 📊 Growth and Development Plans
+
+- Outline how you envision your group evolving over time
+- Include any long-term goals or aspirations
+
+**Example:** "The Guardian Angels aim to establish a formal training academy for new members, expand their influence to neighboring towns, and ultimately force a reform of the Woodcrest Police Department through their actions and public pressure."
+
+## 🌟 Unique Features or Characteristics
+
+- Highlight any special aspects of your group that set it apart from others or make it particularly interesting for roleplayers
+
+**Example:**
+- Access to a network of hidden cameras throughout Woodcrest
+- A mysterious benefactor who provides advanced technology and resources
+- Annual "Vigilante's Masquerade" where members can safely mingle with the public
+
+---
+
+Please submit your completed proposal to the Woodcrest Roleplay Administration for review. We look forward to seeing your creative ideas for enhancing our town's roleplay experience!
