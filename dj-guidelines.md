@@ -16,6 +16,9 @@ We appreciate all campus DJs who provide music and entertainment for our communi
 5. DO NOT PUT IN STREAMS FOR UNAPPROVED DJs or anyone but yourself or another approved DJ without proper authorization.
 6. NEW RADIO STREAMS AND UNAPPROVED DJs must be vetted through the DJ Manager, Event Management Team, or Dexy.
 
+## Sim Tip Attribution
+Performing at or on any Woodcrest event will require a 10% attribution tax from all performer tip jars. It's preferred that these tip jars are provided pre-configured by our administration staff, but should there be a scenario that prohibits it, please contact the administration staff for assistance.
+
 ## Strike System
 1. FIRST STRIKE: Warning and 48-hour suspension for rule violations or disrespectful behavior.
 2. SECOND STRIKE: Second warning and one-week suspension from DJing on campus.
