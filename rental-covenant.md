@@ -16,7 +16,7 @@ When you choose to rent within Woodcrest, you're agreeing to adhere to the follo
 - If your rental expires, your items will be returned.
 
 ### Fees and Rates
-- All rentals on the London Docks Sim use the following rate for pricing: **L$2.5 per prim, plus a flat L$25 maintenance fee**.
+- All rentals in all Woodcrest regions use the following rate for pricing: **L$2.5 per prim, plus a flat L$25 maintenance fee**.
 - Prim limits may be upgraded in increments of 10. Maximum limits are based upon unit type and prim availability.
 
 ### Privacy and Security
