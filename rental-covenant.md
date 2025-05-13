@@ -20,12 +20,30 @@ When you choose to rent within Woodcrest, you're agreeing to adhere to the follo
 - Prim limits may be upgraded in increments of 10. Maximum limits are based upon unit type and prim availability.
 
 ### Privacy and Security
-- Woodcrest is a roleplay community. Privacy could be affected by players looking to interact. However, players may not enter your residency without permission (residential units only - *does not apply to shops*). Report trespassers to a moderator immediately.
+- Woodcrest is a roleplay community. Privacy could be affected by players looking to interact. However, players may not enter your residency without permission (residential units only - *does not apply to shops, see below*). Report trespassers to a moderator immediately.
 - Security orbs are not allowed.
 
+### Roleplay Consent Signage (Shops Only)
+
+All rentals designated as "Shops" are considered public-facing RP spaces. To ensure clarity of consent within the community and to uphold Section 3.0 of the Woodcrest Code of Conduct, **every business rental is required to display an official Roleplay Consent Sign.**
+
+These signs are placed and managed by staff and are considered part of the parcel infrastructure. They are **immovable and must remain unobstructed and clearly visible** at all times.
+
+#### Tenant Responsibilities
+
+- Maintain a valid RP Consent Notecard inside the sign, specifying what kinds of RP are permitted (or not) on the property.
+- Keep the sign **set to the appropriate state** (`APPROVED` or `NOT APPROVED`) based on current consent terms.
+- **Do not** cover, resize, hide, or alter the sign in any way.
+
+#### Non-Compliance
+
+Failure to comply with this system - including tampering with signs, failing to maintain the required notecard, or intentionally misrepresenting RP consent - **may result in eviction without refund.**
+
+This policy protects both business owners and the broader community by removing ambiguity and helping all players respect boundaries. It is considered a mandatory part of the Woodcrest Rental Covenant.
+
 ### Additional Terms
-- Subletting is prohibited. 
+- Subtenants are limited to **TWO** additional subtenants, resulting in **THREE** tenants including the leaseor.
 - There are no refunds. Only credit transfer from one unit to another.
 - If you fail to pay your rent within your unit's "overdue" period, then continue renting the same unit, we may remove time from your meter equal to the overdue period. This is done in fairness to other renters, so nobody gets "free rental time".
 
-###### _Woodcrest Rental Covenant, v1.1_
+###### _Woodcrest Rental Covenant, rev. 5/2025
