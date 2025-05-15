@@ -1,0 +1,61 @@
+WOODCREST BUSINESS ROLEPLAY CONSENT NOTECARD
+=====================================================
+LOCATION: 
+[Business Name]
+
+-----------------------------------------------------
+ROLEPLAY CONSENT LEVEL
+Choose ONE of the following:
+
+[ ] COMPLETE CONSENT
+
+All forms of RP are allowed on this property, as long as they comply with the Code of Conduct. This includes emergency response, criminal RP, and property damage.
+
+-- OR --
+
+[ ] GRANULAR CONSENT
+
+The following RP types are permitted here:
+[ ] Casual RP (guests, hangouts, general interaction)
+[ ] Police response (arrests, citations, surveillance)
+[ ] Emergency response (fire, medical, rescue)
+[ ] Vandalism or graffiti
+[ ] Theft or burglary
+[ ] Temporary property damage (e.g. smashed glass, kicked-in door)
+[ ] Arson or major fire (see below)
+
+-----------------------------------------------------
+FIRE OR DESTRUCTION POLICY
+
+[ ] Minor fire effects (smoke, scorch marks, ambient damage) are allowed
+[ ] Major fire is permitted, but MUST BE REPORTED to the tenant or reverted within 48 hours
+
+-----------------------------------------------------
+NOTES FOR ROLEPLAYERS:
+
+(Optional guidance: NPC presence, visible/active surveillance systems, staff personalities, security practices, business hours, etc.)
+
+> If you are asserting the presence of an OOC system (e.g., "there are hidden cameras" or "there’s a vault with biometrics"), these elements MUST be physically present in-world or listed here explicitly. Otherwise, they are not considered enforceable.
+
+-----------------------------------------------------
+PROPERTY OWNER:
+[Your SL contact card or avatar slurl (this must be clickable and able to be used to directly initiate contact)]
+
+As a tenant of a business in Woodcrest, you have agreed via the Rental Agreement to comply with the community’s signage and consent policy. By displaying this notecard and active roleplay sign, you provide STANDING CONSENT for preemptive roleplay to occur on or around this property, even in your absence.
+
+This notecard operates under Section 3.0 of the Woodcrest Code of Conduct and exists to clarify and protect the boundaries of in-character storytelling.
+
+-----------------------------------------------------
+
+
+CONSENT REMAINS ACTIVE as long as this notecard is present AND the sign is set to "✅ YES".
+
+To revoke consent, change the sign to "❌ No Roleplay" and remove this card.
+
+MODERATION NOTICE:
+This notecard functions as an OOC agreement between the business owner and the roleplaying community. Any RP that violates the global rules of Woodcrest or Linden Lab's ToS will be invalidated, regardless of signage or content herein.
+
+REFERENCE:
+https://woodcrest.university/covenant/code-of-conduct/
+
+REVISION: 5.2025.1
