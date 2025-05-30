@@ -4,7 +4,7 @@ When you choose to rent within Woodcrest, you're agreeing to adhere to the follo
 - All Woodcrest tenants and subtenants must follow the rules of the sim, as well as the Linden Labs TOS. Repeated violations of any rules could result in permanent banishment plus termination of your rental unit without a refund.
 - Any rentals designated as a "Shop" are intended for storefront/shop use only! Do not use shop units as a residential home. 
 - Shops are for RP purposes only. Do not actually sell merchandise or services for L$ without approval from a Woodcrest staff member.
-- 
+  
 ### **Region Rezzer Limits**
 Linden Lab allows only **100 “rezzers” per region**. If you rez even a single prim, you count as one rezzer in the system. Because of this, we must enforce limits:
 
