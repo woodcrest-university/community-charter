@@ -4,6 +4,21 @@ When you choose to rent within Woodcrest, you're agreeing to adhere to the follo
 - All Woodcrest tenants and subtenants must follow the rules of the sim, as well as the Linden Labs TOS. Repeated violations of any rules could result in permanent banishment plus termination of your rental unit without a refund.
 - Any rentals designated as a "Shop" are intended for storefront/shop use only! Do not use shop units as a residential home. 
 - Shops are for RP purposes only. Do not actually sell merchandise or services for L$ without approval from a Woodcrest staff member.
+- 
+### **Region Rezzer Limits**
+Linden Lab allows only **100 “rezzers” per region**. If you rez even a single prim, you count as one rezzer in the system. Because of this, we must enforce limits:
+
+- **Max 2 tenants/subtenants per rental rez box** (sometimes 3 in special cases).
+- Please be selective with subtenants. We can’t make exceptions for larger groups.
+- **Dorms:** Limited to **1 tenant/subtenant per room**. Dorms will also be limited to **60 LI Max per room** with no exceptions or increases.
+- If you have prims out on a region *that is not one in which you rent*, they will be returned unless we are informed ahead of time they are for an event. (This does not apply to temporary rezzing for short-term roleplay under 2 hours.)
+
+### **Rental Moves**
+We’re also tightening our policy on moving rentals:
+
+- Moving between rentals is limited. If you’ve already moved **twice**, we will likely decline additional moves.
+- Choosing a new rental after your previous one expires is still permitted.
+- **Moving your rent to a different Casperlet mat while you have an active rental is no longer allowed.** Please finish your current rental before starting another.
 
 ### Land Group Membership
 - Tenants and subtenants must be in the group titled "Woodcrest Landgroup". Otherwise, objects will be automatically returned. Invites will only be sent after a unit is paid. 
