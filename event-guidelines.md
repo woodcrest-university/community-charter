@@ -2,101 +2,164 @@
 
 ## General Guidelines for Events
 
-### Location
-For University-related events, the following locations should be considered in order of priority:
-  - Woodcrest University
-  - Woodcrest Bay
-  - London Docks
+### Event Types
 
-For General, non-university based events, the following locations should be considered in order of priority:
-  - London Docks
-  - Woodcrest Bay
-  - Woodcrest University
- 
-Any ground level using existing location or event structures (See below for location information) may be considered for hosting events, but event platforms (ie: skyboxed events) must be approved by the Events Coordinator before event setup is permitted.
+While not an exhaustive list, the following are the generally accepted event types that may be referenced throughout these guidelines:
 
-### Prim Limits
-Decor and/or Builds for events should be kept under 500 LI. With approval from the Events Coordinator, this can go as high as 1000 LI if needed. Event planners should make every effort to keep prims under the maximum limits and make use of low LI items in their builds and decor.
+- Classes
+- Sim-Wide
+- Group Restricted (e.g. house limited)
+- Student Council (e.g. Electioneering, Spirit Week)
+- Greek Council (e.g. Rush, Greek Games)
+- Pop-Ups
+- OOC
 
-### Businesses
-Businesses holding events will need to abide by the same rules as above, however if holding an event outside of their business location, the event build and location will need pre-approval from the Events Coordinator.
+### Scheduling & Event Priority
+
+Events are scheduled via the Woodcrest Discord which then syncs up to the Google Calendar and Woodcrest website. Recurring Events may require toggling on the Google Calendar.
+
+#### Event Planning Procedure
+
+To schedule an event, the following procedure must be followed:
+
+1. **Create a thread** in the #event-planning forum on Discord containing the following required information:
+   - Name of event
+   - Date/Time of event
+   - Details of the event
+   - A poster to be used to advertise the event
+   - Whether the region media stream is required (i.e. DJs, music streams, etc)
+
+2. **Discussion period** - Anyone with the Event Coordinator role may discuss and help resolve any potential conflicts within the thread
+
+3. **Moderator approval** - Wait for a Moderator or Administrator to approve the event before scheduling
+
+4. **Calendar creation** - Once approved, add the event to the calendar and post the event link in the thread
+
+Events may be scheduled by any member with the Event Coordinator role on Discord or a Moderator. Reach out to the most appropriate person to schedule your event (i.e. House Social Chair).
+
+Classes should continue to be managed via the Faculty Lead.
+
+Where conflicts exists between events the following priority must be considered:
+
+1. Classes
+2. Student Council & Greek Council
+3. Sim-Wide
+4. Group Restricted
+5. OOC
+6. Pop-Ups
+
+In practice, this means that Classes should not be cancelled during Council 'weeks' (e.g. Rush, Spirit Week) unless the professor wishes to cancel or reschedule their classes. Equally Sim-Wide events should be checked by the relevant Council during their weeks prior to scheduling to avoid taking preferred slots.
+
+During Group Restricted bookings another event type may be scheduled in the same slot but please do be considerate of the group restricted booking in terms of attendance, location and the radio stream.
+
+Pop-Ups must not be directly announced prior to any scheduled event to avoid 'event fatigue' which may reduce the turn-out of the priorly planned event. Pop-Ups/After-Parties are allowed without schedule. Where Pop-Ups are continuously run, we reserve the right to ask that these are coordinated and scheduled in future.
+
+**Pop-Up events require moderator approval before switching the region media stream away from the pre-approved stream.** This ensures coordination with other events and prevents stream conflicts.
+
+All OOC events must be approved by Administration prior to scheduling.
+
+### Locations
+
+While events can and should pick any location that logically matches the theme, audience and scale of the event the following should be considered:
+
+**For University-related events, the following locations should be considered in order of priority:**
+
+1. Woodcrest University
+2. London Docks / Woodcrest North
+3. Woodcrest Bay
+4. Event Platform
+
+**For General, non-university based events, the following locations should be considered in order of priority:**
+
+1. London Docks / Woodcrest North
+2. Woodcrest Bay
+3. Woodcrest University
+4. Event Platform
+
+**For OOC events** please contact Administration to schedule your location but this is likely to be:
+
+- Woodcrest Bay - Blackwell Rock
+- Event Platform
+
+Any ground level existing location or event structures (see below) may be considered for hosting events.
+
+Usage of a sim-owned or rented business must get approval of the appropriate manager prior to setup. Where no manager exists, Moderators may approve for sim-owned businesses, rentals remain at the sole discretion of their tenants.
+
+The following locations are pre-approved for event usage. This list is in no particular priority order:
+
+| Region | Location |
+|--------|----------|
+| **Woodcrest University** | The Quad |
+| | Athletics Center |
+| | Beaver Bistro |
+| | Thornbrook Institute of Fashion and Arts |
+| | Dance Academy |
+| | Football Field |
+| | Administration Building |
+| | Greenhouse |
+| | Library |
+| | Starpugs Upper Stage |
+| | Beach |
+| **London Docks** | Town Hall Plaza |
+| | Botanic Park |
+| | Church |
+| | Wooded Area |
+| | Beach |
+| | The Lantern Hall |
+| | Greek Row & Pool |
+| **Woodcrest Bay** | Beach |
+| | Blackwell Rock |
+| **Woodcrest North** | TBC |
+
+### Land Impact Limits
+
+| Region | Land Impact Limits |
+|--------|--------------------|
+| Woodcrest University | 500 LI<br>1000 LI (with Moderator approval) |
+| London Docks | 500 LI<br>1000 LI (with Moderator approval) |
+| Woodcrest Bay | 500 LI<br>1000 LI (with Moderator approval) |
+| Woodcrest North | 500 LI<br>1000 LI (with Moderator approval) |
+
+Event planners should make every effort to keep prims under the maximum limits and make use of low LI items in their builds and decor.
+
+Land Impact Limits for floats, Rush, temporary tents, etc will be subject to Administration decisions at the time and communicated. For reference this is likely to be in the 25 LI to 75 LI range.
+
+Administrators may waive or issue increased Land Impact Limits on a case-by-case basis in exceptional circumstances when requested.
 
 ### Setup & Teardown
-Events should not be set up more than a week prior to the event date, and should ideally be set up as close to the event date as possible. All event builds and decor should be removed within 24 hours after the event has taken place.
 
-### Event Venue Locations
-The following locations can be used for events without requiring prior approval:
+- Events should not be set up more than a week prior to the event date, and should ideally be set up as close to the event date as possible.
+- Events should be appropriately sized for and blended into the set up location and should be grounded in realism.
+- All event builds and decor should be removed within 24 hours after the event has taken place.
+- Where prior events are scheduled, an event should not be set up until prior events have been removed in order to conserve Land Impact.
+- An event may have up to two (2) approved external "Rez Permits" roles granted per event. These must be revoked after the event has concluded. All Rez Permit requests must be documented in the event planning thread.
 
-#### London Docks
-- North Western Event Venue: Barn
-- South Western Event Venue: Beach
-- River Front Event Venue: Warehouse
-- Public Outdoor Venues (Central Pavillion, Campgroups, Beach, Park)
+### Media Streams
 
-The following business locations can be used for events but must be requested for approval by the managers:
-- Tight Ends
-- Woodcrest Cinema
+**Region media streams are a shared resource and must be coordinated between events.**
 
-Greek Houses may use the Greek Quad lawn or pool for any events. 
+- Scheduled events have priority for media stream usage during their event times
+- Pop-up events require moderator approval before changing the region media stream
+- Event coordinators should verify stream availability when scheduling events in shared locations
+- Media streams should be returned to the default/pre-approved stream after event conclusion
+- In cases of stream conflicts, event priority (as outlined in Scheduling & Event Priority) determines stream usage rights
 
-#### Woodcrest University
- - Garden Pavillion
- - Athletics Center Gym
- - Quad
- - Beach
+### Posters and Advertising
 
- The following business locations can be used for events but must be requested for approval by the managers:
- - Starpugs Upper Floor (stage)
+Appropriate advertising and warning should be given to the Woodcrest Community of the event. Typically this is a post in the #sim-events channel on Discord and a notice in an appropriate Woodcrest Second Life Group(s) (e.g. Woodcrest Roleplay and Woodcrest University).
 
-#### Woodcrest Bay
+While no specific rules exist the following guidelines may be considered:
 
-TBA
+- Advertise as soon as reasonably possible to give people time to plan and make best endeavors to attend.
+- A poster is typically used to advertise an event (AI usage is fine).
+- Date, Time, Location and Theme/Attire are usually the minimally required information.
 
-#### Additional Notes
+A post in #sim-events on Discord and in Second Life Woodcrest Groups may be sent just prior to (e.g. 1 hour prior) and when the event starts.
 
-If needed, the streets can be blocked off for an event but must be pre-approved by the Events Coordinator and the PD will need to provide blockades.
+### Administration Waiver
 
-NOTE: All of the above locations may be decorated as needed for events, within the allowed prim limits, however no buildings or large structures may be used without prior approval of the Events Coordinator.
+Woodcrest Administrators may, at their sole discretion, issue waivers to any of the Event Guidelines or Limits.
 
-## Woodcrest Calendar Guidelines For Events
+---
 
-Priority of Scheduling:
-
-1. University Classes or Activities
-2. Student Council, Greek Council or Faculty meetings and events
-3. Greek House meetings and events
-4. Business events (clubs, bars, stores, etc) and Band Events - see below for additional info)
-
-Note: Greek "house only" events can be added to the calendar but are for informational purposes only and do not guarantee them that time slot. Any other scheduling will take priority over a "house only" event. It is recommended that Greek Houses use their own calendar to keep track of their "house only" events or activities.
-
-**Definitions:**
-Prime Time = Friday starting time of 4pm, all day Saturday and all day Sunday.
-Non-Prime Time = any other time or day of week than the above.
-
-
-### Scheduling Rules:
-
-1. WC classes and school related events, such as Student Council, Greek Council, Performing Arts, Cheer etc., are top priority and can be posted at any time in advance. Student Council maintains absolute event scheduling priority during Spirit Week and Homecoming Week, the dates for which must be approved by the mod team. Greek Council maintains absolute event scheduling priority during Rush weeks. Greek Council and Student Council may together designate any major holiday for a jointly sponsored event.
-2. Greek House events can be posted to the calendar no more than one month in advance.
-3. Greek houses may schedule a maximum of 3 prime time events per month, and unlimited non-prime time events. 
-4. Greek house and other meetings which are Greek or university related may be scheduled as ongoing events which run thru the year.
-5. Businesses (Clubs, Bars, etc. including, but not limited to Tight Ends, Chandelier Room, etc.) can post events no more than one month in advance. They may schedule 2 exclusive prime time events per month and post unlimited events on the university calendar in NON-prime times. 
-6. Bands can schedule one month in advance for one exclusive prime time slot per month. Other band performances are considered “soft” but as an RP activity they can pop up at any time and claim priority for the stream over other “soft” events
-7. If a prime time slot is open on the calendar, a Greek House, Business, DJ or Band can hold a 'pop-up', or spontaneous event, but only if it is scheduled on the day of the event.
-8. Maximum time allowance for an event is 4 hours. If more time is needed for an event, then a request can be made but is subject to approval from the Events Coordinator.
- 9. If there is nothing on the calendar following an event, It is up to the discretion of whoever is holding the event to carry it longer, if desired. However if there is a class, meeting, other event, or anything else on the schedule immediately following an event, then the event must be wrapped up at the ending time. It is also a courtesy for whoever is holding the event to announce whatever is following to the event guests.
-
-Note:  All calendar postings will be done on a first come, first served basis. It is recommended to get your events posted early so that you are guaranteed the time slot that you want.
-
-### Posters
-
-Event Posters should be submitted at the time or shortly after an event has been placed on the Calendar and should include a date and time as well as the information as to who is holding or sponsoring the event. Posters should be submitted to the Events Coordinator and if you would like your poster to be included in the Beaver Pride Newspaper you may also provide a copy to the editor. Poster dimensions should be 3:4 aspect ratio (example: 1024 pixels tall x 768 wide).
-
-## Contacts
-
-Woodcrest Events Coordinator
-
-Jaelynn Strangelove
-
-
-###### _Woodcrest Event Guidelines, rev. 082324.1
+*Woodcrest Event Guidelines, rev. 101725.1*
