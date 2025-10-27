@@ -58,6 +58,31 @@ Pop-Ups must not be directly announced prior to any scheduled event to avoid 'ev
 
 All OOC events must be approved by Administration prior to scheduling.
 
+### Scheduling Priority
+
+Priority of Scheduling:
+
+1. University Classes or Activities
+2. University-based group or Town-based group events
+3. Student Council, Greek Council or Faculty meetings
+4. Business (clubs, bars, stores, etc) or Band Events
+5. University-based group or Town-based group meetings
+
+Note: "University-based group" refers to any fraternity, sorority, club, or affiliation that's university student based. "Town-based" group refers to any non-university affiliated group, including (but not limited to) civil service groups.
+
+Non-council "University-based group" meetings can be added to the calendar but are for informational purposes only and do not guarantee them that time slot. Any other scheduling will take priority over a such a meeting event. It is recommended that groups use their own calendar to keep track of their "internal only" events or activities.
+
+### Scheduling Terms:
+*Prime Time* shall refer to Friday starting time of 4pm, all day Saturday and all day Sunday.
+*Non-Prime Time* shall refer to any other time or day of week that is not Prime Time.
+
+### Scheduling Rules:
+
+1. Any event can be posted to the calendar no more than one month in advance.
+2. Any group may schedule a maximum of 3 prime time events per month, and unlimited non-prime time events. 
+3. Meetings which are recurring may be scheduled as ongoing events, with the stipulation that they may be requested to be rescheduled.
+4. If there is nothing on the calendar following an event, It is up to the discretion of whoever is holding the event to carry it longer, if desired. However if there is a class, meeting, other event, or anything else on the schedule immediately following an event, then the event must be wrapped up at the ending time. It is also a courtesy for whoever is holding the event to announce whatever is following to the event guests.
+
 ### Locations
 
 While events can and should pick any location that logically matches the theme, audience and scale of the event the following should be considered:
