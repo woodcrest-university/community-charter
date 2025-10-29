@@ -31,9 +31,7 @@ To schedule an event, the following procedure must be followed:
 
 2. **Discussion period** - Anyone with the Event Coordinator role may discuss and help resolve any potential conflicts within the thread
 
-3. **Moderator approval** - Wait for a Moderator or Administrator to approve the event before scheduling
-
-4. **Calendar creation** - Once approved, add the event to the calendar and post the event link in the thread
+3. **Calendar creation** - Once any potential conflicts have been discussed in the event thread, add the event to the calendar and post the event link in the thread
 
 Events may be scheduled by any member with the Event Coordinator role on Discord or a Moderator. Reach out to the most appropriate person to schedule your event (i.e. House Social Chair).
 
