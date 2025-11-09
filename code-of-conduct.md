@@ -55,10 +55,22 @@ Avatars should resemble realistic human proportions and appearances. Non-human a
 
 Attachments and accessories should be realistic and appropriate for the setting. Avoid using items that are overly exaggerated, fantastical, or disruptive to the immersive experience.
 
-All Woodcrest sims are classified as 'Adult'. Avatars must depict characters who are 18 years of age or older. The portrayal of underage characters is strictly prohibited, including the depiction of non-avatar children (e.g. 'prim' or 'animesh' babies/children); the portrayal of pregnancy and pregnancy-related roleplay is, however, allowed.  
-
 Residents are expected to ensure that their avatars are appropriately attired and refrain from overtly sexual or explicit displays in public spaces. Clothing and accessories should be tasteful and non-offensive.
 
+#### 6.1 Age Representation and Child Avatar Policy
+All Woodcrest sims are classified as 'Adult'. Avatars must depict characters who are 18 years of age or older. **Under no circumstances are human-controlled child avatars permitted within Woodcrest at any time.** The portrayal of underage characters through avatars is strictly prohibited and will result in immediate and strict moderation action.
+
+**Limited Exception for Family Roleplay Props:** Non-avatar children (prim or animesh babies/children) may be used ONLY as temporary props during brief family milestone events under the following strict conditions:
+- They may only appear in public spaces for the brief duration of the specific event
+- They must remain under direct supervision of the roleplaying parent(s) at all times
+- They may not be rezzed in private residences or left unattended anywhere on sim
+- They must be immediately removed if any roleplay situation becomes inappropriate for their presence
+- **Any decision by a moderator regarding their use must be followed immediately without discussion**
+- Their use must comply with all Linden Lab Terms of Service regarding Adult-rated regions
+
+Residents may optionally consult with moderators in advance regarding planned use of these props for family milestone events, though prior approval is not required if all conditions above are met. Any violation of these strict parameters will result in immediate removal of the objects and strict moderation action, potentially including permanent banning.
+
+The portrayal of pregnancy and pregnancy-related roleplay remains permitted. **These guidelines are established to enable meaningful family roleplay moments while ensuring a safe, appropriate environment that protects both our community and complies with platform requirements.**
 
 ### 7.0 Practice Responsible Roleplay
 
