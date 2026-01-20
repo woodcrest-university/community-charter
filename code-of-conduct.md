@@ -13,16 +13,34 @@ While private messages (IMs) have their place, especially for welcoming those le
 
 If you encounter any issues or have concerns, reach out to the community staff or use the designated channels for reporting and assistance.
 
-### 3.0 Respect Boundaries and Obtain Consent
+### 3.0 Respect Boundaries and Consent in Roleplay
 
-Consent is the foundation of all interactions within Woodcrest. Always obtain clear consent from other players before engaging in roleplay or imposing any scenarios or actions upon them.
-Public roleplay should be mindful of the comfort and boundaries of all community members. Avoid content or behaviors that may be excessively violent, discriminatory, or offensive. When in doubt, err on the side of caution and respect.
+Consent in Woodcrest refers specifically to **control over your character and the actions directly imposed upon them**. No player may godmod, force outcomes, dictate another character’s thoughts, emotions, injuries, or decisions, or metagame information without the clear agreement of the other player(s) involved.
 
-For sensitive or mature roleplay themes, ensure that all participants have given explicit consent and conduct such interactions in private settings to maintain a comfortable environment for everyone.  If you are unsure about the appropriateness of an action or need to clarify the boundaries of a roleplay situation, it is always safe and encouraged to use private instant messages (IMs) to communicate with the other player(s) involved. This allows for a clear and confidential exchange of consent and expectations without disrupting the flow of the in-character interaction.
+Consent does **not** mean that all roleplay must be comfortable, agreeable, or free from tension, conflict, or consequences. Players are **not entitled** to stop or report roleplay simply because they dislike, disagree with, or feel personally offended by in-character actions, themes, dialogue, or story developments, provided those actions do not violate community rules.
 
-When using IMs to obtain consent, be clear and specific about the proposed action or scenario. Provide the other player(s) with enough context and information to make an informed decision. Respect their response and be prepared to adjust or abandon the proposed action if necessary.
+Public roleplay may include conflict, confrontation, morally questionable behavior, social consequences, or uncomfortable situations as part of storytelling. As long as no player is forcing actions onto another character and the content is not racist, sexually abusive, excessively graphic, or otherwise prohibited by Woodcrest rules, it is considered permissible roleplay.
 
-Remember, consent can be withdrawn at any time, even if previously given. If a player expresses discomfort or withdraws consent during a roleplay interaction, it is essential to respect their boundaries and adapt accordingly.
+#### Consent Is Required For
+
+* Physical actions that directly affect another character, including injury, restraint, forced movement, or character-altering outcomes
+* Sexual, erotic, or highly explicit roleplay
+* Severe violence or long-term consequences that materially affect a character’s continuity
+
+#### Consent Is Not Required For
+
+* Dialogue, insults, threats, accusations, or verbal confrontation
+* Social conflict, reputation damage, or in-character consequences resulting from roleplay
+* Public actions or story developments that do not dictate another character’s response or internal state
+
+Players may always step away from a scene if they are uncomfortable. However, players may **not** demand that others stop lawful roleplay or expect staff action solely based on personal offense. Staff intervention occurs only when rules are broken, not when roleplay is disliked.
+
+#### Clarifying Boundaries
+
+For sensitive or mature themes, participants are encouraged to clarify boundaries through private IMs when appropriate. This communication should be used to prevent godmodding, clarify limits, or ensure mutual understanding.
+
+Private communication **must not** be used to veto valid roleplay, avoid logical consequences, or retroactively invalidate scenes that follow community rules.
+
 
 ### 4.0 Strive for Realism and Immersion
 
@@ -232,4 +250,4 @@ Remember, the goal is to foster a supportive and inclusive environment where eve
 
 _**Indemnification:** Woodcrest Township, its owners, administrators, and staff (collectively referred to as "Woodcrest") shall not be held liable for any damages or losses resulting from the actions of its visitors, residents, or employees. Furthermore, Woodcrest is not responsible for any region performance issues or the loss of no-copy items due to factors beyond its control, such as rollbacks, sim crashes, or returned objects. In the event of lost inventory, affected residents should contact Linden Lab directly for assistance._
 
-###### _Woodcrest Code of Conduct, rev. 3/2024_
+###### _Woodcrest Code of Conduct, rev. 1/2026_
