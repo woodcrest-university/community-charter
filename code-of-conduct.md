@@ -15,31 +15,75 @@ If you encounter any issues or have concerns, reach out to the community staff o
 
 ### 3.0 Respect Boundaries and Consent in Roleplay
 
-Consent in Woodcrest refers specifically to **control over your character and the actions directly imposed upon them**. No player may godmod, force outcomes, dictate another character’s thoughts, emotions, injuries, or decisions, or metagame information without the clear agreement of the other player(s) involved.
+Consent is the foundation of collaborative roleplay in Woodcrest. All players retain agency over their characters and their personal boundaries at all times. Roleplay must remain cooperative, respectful, and grounded in good faith.
 
-Consent does **not** mean that all roleplay must be comfortable, agreeable, or free from tension, conflict, or consequences. Players are **not entitled** to stop or report roleplay simply because they dislike, disagree with, or feel personally offended by in-character actions, themes, dialogue, or story developments, provided those actions do not violate community rules.
+#### What Always Requires Consent
 
-Public roleplay may include conflict, confrontation, morally questionable behavior, social consequences, or uncomfortable situations as part of storytelling. As long as no player is forcing actions onto another character and the content is not racist, sexually abusive, excessively graphic, or otherwise prohibited by Woodcrest rules, it is considered permissible roleplay.
+You must obtain clear consent before:
 
-#### Consent Is Required For
+* Forcing actions, injuries, thoughts, emotions, internal states, or outcomes onto another character
+* Inflicting long-term or character-altering consequences
+* Engaging in sexual content, extreme violence, or sensitive personal themes
+* Continuing any interaction after consent has been clearly withdrawn
 
-* Physical actions that directly affect another character, including injury, restraint, forced movement, or character-altering outcomes
-* Sexual, erotic, or highly explicit roleplay
-* Severe violence or long-term consequences that materially affect a character’s continuity
+Godmodding and metagaming are strictly prohibited.
 
-#### Consent Is Not Required For
+#### Implied Consent and Social Conflict
 
-* Dialogue, insults, threats, accusations, or verbal confrontation
-* Social conflict, reputation damage, or in-character consequences resulting from roleplay
+Certain forms of roleplay occur under implied consent, meaning explicit permission is not required unless or until consent is withdrawn. These include:
+
+* In-character dialogue and conversation
+* Disagreements, confrontations, or social tension
 * Public actions or story developments that do not dictate another character’s response or internal state
 
-Players may always step away from a scene if they are uncomfortable. However, players may **not** demand that others stop lawful roleplay or expect staff action solely based on personal offense. Staff intervention occurs only when rules are broken, not when roleplay is disliked.
+Implied consent exists because characters live in a shared world. However, implied consent is not unlimited and is not permanent.
 
-#### Clarifying Boundaries
+#### Consent Can Be Withdrawn
 
-For sensitive or mature themes, participants are encouraged to clarify boundaries through private IMs when appropriate. This communication should be used to prevent godmodding, clarify limits, or ensure mutual understanding.
+Any player may withdraw consent at any point if an interaction crosses a stated personal boundary or becomes harmful or distressing.
 
-Private communication **must not** be used to veto valid roleplay, avoid logical consequences, or retroactively invalidate scenes that follow community rules.
+When consent is withdrawn:
+
+* The scene does not retroactively void what already occurred
+* The interaction must de-escalate, redirect, or end respectfully
+* Players are expected to cooperate in finding a reasonable in-character resolution or disengagement
+
+Withdrawing consent does not erase consequences already established in the scene. It sets a limit on what happens next. Players should work together to pivot or conclude the scene in a way that respects boundaries without nullifying prior roleplay.
+
+#### Verbal Conflict, Insults, and Threats
+
+Verbal roleplay does not require prior consent, but it does require restraint and good faith.
+
+* Light insults, accusations, and confrontations may occur under implied consent
+* Targeted, degrading, or persistently hostile language that a reasonable player would find harassing or demeaning is not protected by this rule
+* If a player clearly communicates that certain verbal behavior is unwelcome, it must stop or the scene must pivot/end
+
+Using in-character dialogue to deliberately cause out-of-character harm, distress, or harassment is a violation of this covenant, regardless of in-character justification.
+
+**Note:** If distress is caused unintentionally, this alone is not a violation. Mistakes happen. However, once a boundary is communicated, it must be respected going forward.
+
+#### Reputation and Social Consequences
+
+Reputation damage and social consequences must arise from legitimate roleplay context.
+
+* Fabricated defamation with no in-character basis may be moderated
+* Rumors and criticism can be valid RP, but sustained smear campaigns, OOC-motivated targeting, or claims designed only to isolate or shame another player may be moderated
+* Reputational RP should invite response and escalation, not silence or targeting
+
+If you are ever uncertain whether implied or explicit consent is required, seek consent first to avoid future issues.
+
+#### Staff Intervention
+
+Staff will intervene when:
+
+* Consent is ignored or dismissed
+* A player continues behavior after boundaries are stated
+* Rules are used to justify harassment, intimidation, or abuse
+* Consent systems (explicit, implied, or withdrawal) are abused to harass others, evade accountability, or repeatedly derail roleplay
+
+Discomfort alone does not invalidate roleplay, but harmful behavior is never protected by technicalities.
+
+Woodcrest is a shared narrative space. Conflict is welcome. Abuse is not.
 
 
 ### 4.0 Strive for Realism and Immersion
